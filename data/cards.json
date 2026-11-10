@@ -32,6 +32,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "woman 构成的职业复合名词，前后两词均需变复数：women teachers；German（德国人）变复数直接加 -s (Germans)，不可与 English/French 混淆。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
     }
   },
   {
@@ -67,6 +90,29 @@
       "answer_index": 2,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "advice 为不可数名词，没有复数形式，不能加不定冠词 an。表达一条建议用 a piece of advice。故选 C。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
     }
   },
   {
@@ -102,6 +148,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "后句说明两人同住一个房间，表示两人共同拥有，只需在最后一个名字后加 's。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
     }
   },
   {
@@ -137,6 +206,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "hour 中的 h 不发音，以元音音素 /aʊ/ 开头，用 an；useful 以辅音音素 /j/ 开头，用 a。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "It took me a hour to finish the homework, and then I played the basketball with an university student.",
+        "diagnosis": "1. hour 虽以 h 开头但 h 不发音，以元音音素 /aʊ/ 开头，必须用 an hour；2. 球类运动前不用冠词，play basketball；3. university 虽以元音字母 u 开头，但音标是辅音音素 /j/，必须用 a university。",
+        "cure_sentence": "It took me an hour to finish the homework, and then I played basketball with a university student."
+      },
+      "creation_task": {
+        "scene": "【周末生活日记】：描写你度过的一个充实周末，包含一项乐器练习、一项球类运动以及一件用时一小时的事情。",
+        "target_keywords": [
+          "an hour",
+          "play the piano",
+          "play football",
+          "a useful book"
+        ],
+        "template": "It took me ______ (an hour) to read ______ (a useful book). In the afternoon, I played ______ and played ______...",
+        "sample": "It took me an hour to finish reading a useful novel. After that, I played the violin for thirty minutes and then played football with my classmates."
+      },
+      "ladder_steps": [
+        "第一步·辨析首音素：读出单词首个音素（元音音素用 an，辅音音素用 a）。",
+        "第二步·特指与零冠词匹配：乐器加 the，球类/三餐零冠词。",
+        "第三步·情境造句：自然串联两个动作，时态保持一致。"
+      ]
     }
   },
   {
@@ -172,6 +264,29 @@
       "answer_index": 2,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "乐器名称前须加定冠词 the (play the piano)；球类运动名称前不用冠词 (play football)。故选 C。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "It took me a hour to finish the homework, and then I played the basketball with an university student.",
+        "diagnosis": "1. hour 虽以 h 开头但 h 不发音，以元音音素 /aʊ/ 开头，必须用 an hour；2. 球类运动前不用冠词，play basketball；3. university 虽以元音字母 u 开头，但音标是辅音音素 /j/，必须用 a university。",
+        "cure_sentence": "It took me an hour to finish the homework, and then I played basketball with a university student."
+      },
+      "creation_task": {
+        "scene": "【周末生活日记】：描写你度过的一个充实周末，包含一项乐器练习、一项球类运动以及一件用时一小时的事情。",
+        "target_keywords": [
+          "an hour",
+          "play the piano",
+          "play football",
+          "a useful book"
+        ],
+        "template": "It took me ______ (an hour) to read ______ (a useful book). In the afternoon, I played ______ and played ______...",
+        "sample": "It took me an hour to finish reading a useful novel. After that, I played the violin for thirty minutes and then played football with my classmates."
+      },
+      "ladder_steps": [
+        "第一步·辨析首音素：读出单词首个音素（元音音素用 an，辅音音素用 a）。",
+        "第二步·特指与零冠词匹配：乐器加 the，球类/三餐零冠词。",
+        "第三步·情境造句：自然串联两个动作，时态保持一致。"
+      ]
     }
   },
   {
@@ -207,6 +322,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "第一空指代“她的书包”，且后无名词，用名词性物主代词 hers；第二空同样单独作表语指“你的书包”，用名词性物主代词 yours。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Just between you and I, this red schoolbag is not my, it must be she.",
+        "diagnosis": "1. between 为介词，介词后必须接人称代词宾格 me，不能用主格 I；2. my 为形容词性物主代词不能单独作表语，需用名词性物主代词 mine；3. she 是主格，此处需用名词性物主代词 hers。",
+        "cure_sentence": "Just between you and me, this red schoolbag is not mine, it must be hers."
+      },
+      "creation_task": {
+        "scene": "【失物招领对话】：你和同桌在教室地上捡到一个精致的笔袋，你们正在讨论是谁的文具。",
+        "target_keywords": [
+          "between you and me",
+          "mine",
+          "hers / yours",
+          "help oneself"
+        ],
+        "template": "Between you and me, is this blue pencil case ______ (yours)? No, ______ (mine) is in my schoolbag...",
+        "sample": "Just between you and me, is this dictionary yours? No, mine is in my desk. Alice is looking for hers everywhere, so it must be hers!"
+      },
+      "ladder_steps": [
+        "第一步·定位格位：动词介词后用宾格，名物代等于形物代加名词。",
+        "第二步·指代一致：检查上下文单数/复数及性别指代是否统一。",
+        "第三步·对话创编：融入真实社交语气，提升交际生动性。"
+      ]
     }
   },
   {
@@ -242,6 +380,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "称呼语为 Boys and girls（复数概念），故反身代词应选用复数形式 yourselves。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Just between you and I, this red schoolbag is not my, it must be she.",
+        "diagnosis": "1. between 为介词，介词后必须接人称代词宾格 me，不能用主格 I；2. my 为形容词性物主代词不能单独作表语，需用名词性物主代词 mine；3. she 是主格，此处需用名词性物主代词 hers。",
+        "cure_sentence": "Just between you and me, this red schoolbag is not mine, it must be hers."
+      },
+      "creation_task": {
+        "scene": "【失物招领对话】：你和同桌在教室地上捡到一个精致的笔袋，你们正在讨论是谁的文具。",
+        "target_keywords": [
+          "between you and me",
+          "mine",
+          "hers / yours",
+          "help oneself"
+        ],
+        "template": "Between you and me, is this blue pencil case ______ (yours)? No, ______ (mine) is in my schoolbag...",
+        "sample": "Just between you and me, is this dictionary yours? No, mine is in my desk. Alice is looking for hers everywhere, so it must be hers!"
+      },
+      "ladder_steps": [
+        "第一步·定位格位：动词介词后用宾格，名物代等于形物代加名词。",
+        "第二步·指代一致：检查上下文单数/复数及性别指代是否统一。",
+        "第三步·对话创编：融入真实社交语气，提升交际生动性。"
+      ]
     }
   },
   {
@@ -277,6 +438,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "虽然有 the morning，但后面有 of November 4th 限定，属于具体某一天的早晨，必须用介词 on。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The students walked through the street in the morning of September 1st.",
+        "diagnosis": "1. 街道属于平面空间，穿过街道应用 across；through 用于立体穿过（如穿过森林、隧道）；2. 虽然有 morning，但后面有 of September 1st 限定具体日期，介词必须用 on。",
+        "cure_sentence": "The students walked across the street on the morning of September 1st."
+      },
+      "creation_task": {
+        "scene": "【校园漫步日记】：描写你开学第一天早上穿过校园广场、走进图书馆的过程。",
+        "target_keywords": [
+          "on the morning of",
+          "walk across",
+          "through the gate",
+          "at 7:30"
+        ],
+        "template": "On the morning of ______ (September 1st), I arrived at school at ______ (7:30). I walked across the ______ and went into...",
+        "sample": "On the cool morning of September 1st, I arrived at school at 7:30. I walked across the playground and passed through the library hall to greet my new teacher."
+      },
+      "ladder_steps": [
+        "第一步·空间/时间分层：判断是点状瞄准 (at)、表面跨越 (on/across) 还是空间包容 (in/through)。",
+        "第二步·限定词雷达：注意具体某天上下文使 in 升级为 on 的规则。",
+        "第三步·行文造句：结合方位介词构建具有画面感的动态描写。"
+      ]
     }
   },
   {
@@ -312,6 +496,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "“地球绕着太阳转”属于永恒的客观科学真理，在宾语从句中不受主句过去时态影响，必须使用一般现在时。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -347,6 +554,29 @@
       "answer_index": 2,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "句中有 for nearly five years（长达五年的一段时间），谓语动词必须使用延续性状态。die 是瞬间动词不可连用，需转为 be dead 状态。故选 C。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -382,6 +612,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "宾语从句必须使用陈述语序（主语在前，谓语在后）。A项 does 提前倒装错误；C项 will 提前错误；D项 is 提前错误。只有 B 项 where the bus stops 为标准陈述语序。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -417,6 +670,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "表示成千上万的概数概念，数词单位需加 -s 并与 of 连用：thousands of；若有具体数字 five，则需用 five thousand。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "My brother is a 12-years-old boy and his birthday is on the twelveth of October.",
+        "diagnosis": "1. 由连字符连接的复合形容词 12-year-old，中间的名词 year 必须用单数；2. 第十二的序数词应为 twelfth (ve变f加th)，拼写不可漏掉 f 或多写 e。",
+        "cure_sentence": "My brother is a 12-year-old boy and his birthday is on the twelfth of October."
+      },
+      "creation_task": {
+        "scene": "【个人身份卡制作】：用英文写一段关于你的年龄、家庭门牌号、所在楼层与生日的介绍。",
+        "target_keywords": [
+          "-year-old",
+          "twelfth / first / second",
+          "on the ... floor",
+          "thousands of"
+        ],
+        "template": "I am a ______ (13-year-old) student. My classroom is on the ______ (second) floor...",
+        "sample": "I am a 13-year-old junior high student. My classroom is located on the second floor of the teaching building, and my birthday is on the twelfth of December."
+      },
+      "ladder_steps": [
+        "第一步·基序互换：判断是数数量（基数词）还是排顺序/日期/楼层（序数词）。",
+        "第二步·特殊拼写检查：检查 eighth, ninth, twelfth, twentieth 的拼写。",
+        "第三步·复合词造句：规范使用连字符，确保修饰名词单数。"
+      ]
     }
   },
   {
@@ -452,6 +728,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "第十二个月为 twelfth (ve变f加th，不带e)；第二十五天为 twenty-fifth (只变个位)。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "My brother is a 12-years-old boy and his birthday is on the twelveth of October.",
+        "diagnosis": "1. 由连字符连接的复合形容词 12-year-old，中间的名词 year 必须用单数；2. 第十二的序数词应为 twelfth (ve变f加th)，拼写不可漏掉 f 或多写 e。",
+        "cure_sentence": "My brother is a 12-year-old boy and his birthday is on the twelfth of October."
+      },
+      "creation_task": {
+        "scene": "【个人身份卡制作】：用英文写一段关于你的年龄、家庭门牌号、所在楼层与生日的介绍。",
+        "target_keywords": [
+          "-year-old",
+          "twelfth / first / second",
+          "on the ... floor",
+          "thousands of"
+        ],
+        "template": "I am a ______ (13-year-old) student. My classroom is on the ______ (second) floor...",
+        "sample": "I am a 13-year-old junior high student. My classroom is located on the second floor of the teaching building, and my birthday is on the twelfth of December."
+      },
+      "ladder_steps": [
+        "第一步·基序互换：判断是数数量（基数词）还是排顺序/日期/楼层（序数词）。",
+        "第二步·特殊拼写检查：检查 eighth, ninth, twelfth, twentieth 的拼写。",
+        "第三步·复合词造句：规范使用连字符，确保修饰名词单数。"
+      ]
     }
   },
   {
@@ -487,6 +786,29 @@
       "answer_index": 2,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "以 Must 提问的一般疑问句，否定回答表示“不必”，必须用 No, you needn't 或 you don't have to。mustn't 意为“禁止”，不符合语境。故选 C。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma decided starting a reading club because she enjoys to write stories.",
+        "diagnosis": "1. decide 后面只能接动词不定式 to do (decide to start)；2. enjoy 后面只能接动名词 doing (enjoys writing)。两处非谓语搭配完全相反！",
+        "cure_sentence": "Emma decided to start a reading club because she enjoys writing stories."
+      },
+      "creation_task": {
+        "scene": "【兴趣小组招新启事】：你打算在班级里成立一个英语戏剧俱乐部，写两句号召新成员加入的口号。",
+        "target_keywords": [
+          "decide to do",
+          "enjoy doing",
+          "look forward to",
+          "stop to do"
+        ],
+        "template": "If you enjoy ______ (reading/acting), why not decide ______ (to join) our drama club? We look forward to ______...",
+        "sample": "If you enjoy writing fantasy stories and acting on stage, decide to join our English Drama Club today! We are looking forward to sharing laughter with you."
+      },
+      "ladder_steps": [
+        "第一步·锁定前置动词：区分是 enjoy/finish 家族（接 doing）还是 decide/hope 家族（接 to do）。",
+        "第二步·特殊介词识别：牢记 look forward to 中 to 是介词，后面必须用 doing。",
+        "第三步·情境创编：运用两个对比非谓语结构编写一段连贯呼吁。"
+      ]
     }
   },
   {
@@ -522,6 +844,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "look forward to 中 to 是介词，介词后面必须接动名词 doing (visiting)。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma decided starting a reading club because she enjoys to write stories.",
+        "diagnosis": "1. decide 后面只能接动词不定式 to do (decide to start)；2. enjoy 后面只能接动名词 doing (enjoys writing)。两处非谓语搭配完全相反！",
+        "cure_sentence": "Emma decided to start a reading club because she enjoys writing stories."
+      },
+      "creation_task": {
+        "scene": "【兴趣小组招新启事】：你打算在班级里成立一个英语戏剧俱乐部，写两句号召新成员加入的口号。",
+        "target_keywords": [
+          "decide to do",
+          "enjoy doing",
+          "look forward to",
+          "stop to do"
+        ],
+        "template": "If you enjoy ______ (reading/acting), why not decide ______ (to join) our drama club? We look forward to ______...",
+        "sample": "If you enjoy writing fantasy stories and acting on stage, decide to join our English Drama Club today! We are looking forward to sharing laughter with you."
+      },
+      "ladder_steps": [
+        "第一步·锁定前置动词：区分是 enjoy/finish 家族（接 doing）还是 decide/hope 家族（接 to do）。",
+        "第二步·特殊介词识别：牢记 look forward to 中 to 是介词，后面必须用 doing。",
+        "第三步·情境创编：运用两个对比非谓语结构编写一段连贯呼吁。"
+      ]
     }
   },
   {
@@ -557,6 +902,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "句中有两者对比标志词 than，且 popular 是多音节词，其比较级前需加 more。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The more books you read, you will become very wiser than before.",
+        "diagnosis": "1. the more..., the more... 是固定句式，后半句必须也以 the + 比较级开头；2. 修饰比较级 wiser 不能使用 very，必须使用 much 或 far。",
+        "cure_sentence": "The more books you read, the much wiser you will become."
+      },
+      "creation_task": {
+        "scene": "【中考座右铭创编】：写一句关于勤奋学习与知识积累的格言，用于贴在你的书桌前鼓励自己。",
+        "target_keywords": [
+          "the more..., the more...",
+          "much better",
+          "as...as",
+          "one of the most..."
+        ],
+        "template": "The harder you work, the ______ you will be. Every day is ______ than yesterday...",
+        "sample": "The harder you study every day, the much better your future will be. Persistence is one of the most powerful qualities in the world."
+      },
+      "ladder_steps": [
+        "第一步·确认比较范围：两者对比用比较级，三者及以上用最高级。",
+        "第二步·修饰词排雷：坚决排除 very + 比较级的错误，改用 much/a lot/even。",
+        "第三步·格言创编：运用对称结构输出朗朗上口的座右铭。"
+      ]
     }
   },
   {
@@ -592,6 +960,29 @@
       "answer_index": 0,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "There be 句型遵从“就近原则”，紧邻 be 动词的名词是单数 a ruler，因此 be 动词选用单数形式 is。故选 A。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are a teacher and thirty students in the library. The teacher with her students are reading.",
+        "diagnosis": "1. There be 遵从就近原则，紧靠动词的是单数 a teacher，必须用 There is；2. with 结构遵从就远原则，第一主语 The teacher 是单数，谓语动词必须用单数 is reading。",
+        "cure_sentence": "There is a teacher and thirty students in the library. The teacher with her students is reading."
+      },
+      "creation_task": {
+        "scene": "【图书馆场景描写】：描述放学后图书馆阅览室里的师生阅读场景，展现安静专注的氛围。",
+        "target_keywords": [
+          "There is a ... and ...",
+          "with his/her students",
+          "as well as",
+          "neither...nor"
+        ],
+        "template": "In our school library, there is ______ and ______. The teacher with the students ______...",
+        "sample": "In our school library, there is a teacher and forty students. The librarian, along with several volunteers, is putting new books on the wooden shelves."
+      },
+      "ladder_steps": [
+        "第一步·抓主干第一主语：遇 with, as well as, along with 时，忽略修饰挂件，单复数锁定第一主语。",
+        "第二步·就近排查：遇 there be, either...or 时，单复数只看最近邻居。",
+        "第三步·场景创编：融合两个原则写出一段层次分明的校园描写。"
+      ]
     }
   },
   {
@@ -627,6 +1018,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "if 引导条件状语从句，符合“主将从现”原则，主句是一般将来时 will have，从句主语 it 是单数，必须使用一般现在时 is。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -662,6 +1076,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "先行词 movie 被形容词最高级 the most touching 修饰，定语从句关系代词必须使用 that，不可使用 which。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -697,6 +1134,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【不定冠词 a / an 的读音判别与泛指用法】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "It took me a hour to finish the homework, and then I played the basketball with an university student.",
+        "diagnosis": "1. hour 虽以 h 开头但 h 不发音，以元音音素 /aʊ/ 开头，必须用 an hour；2. 球类运动前不用冠词，play basketball；3. university 虽以元音字母 u 开头，但音标是辅音音素 /j/，必须用 a university。",
+        "cure_sentence": "It took me an hour to finish the homework, and then I played basketball with a university student."
+      },
+      "creation_task": {
+        "scene": "【周末生活日记】：描写你度过的一个充实周末，包含一项乐器练习、一项球类运动以及一件用时一小时的事情。",
+        "target_keywords": [
+          "an hour",
+          "play the piano",
+          "play football",
+          "a useful book"
+        ],
+        "template": "It took me ______ (an hour) to read ______ (a useful book). In the afternoon, I played ______ and played ______...",
+        "sample": "It took me an hour to finish reading a useful novel. After that, I played the violin for thirty minutes and then played football with my classmates."
+      },
+      "ladder_steps": [
+        "第一步·辨析首音素：读出单词首个音素（元音音素用 an，辅音音素用 a）。",
+        "第二步·特指与零冠词匹配：乐器加 the，球类/三餐零冠词。",
+        "第三步·情境造句：自然串联两个动作，时态保持一致。"
+      ]
     }
   },
   {
@@ -732,6 +1192,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【定冠词 the 的特指与零冠词固定搭配】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "It took me a hour to finish the homework, and then I played the basketball with an university student.",
+        "diagnosis": "1. hour 虽以 h 开头但 h 不发音，以元音音素 /aʊ/ 开头，必须用 an hour；2. 球类运动前不用冠词，play basketball；3. university 虽以元音字母 u 开头，但音标是辅音音素 /j/，必须用 a university。",
+        "cure_sentence": "It took me an hour to finish the homework, and then I played basketball with a university student."
+      },
+      "creation_task": {
+        "scene": "【周末生活日记】：描写你度过的一个充实周末，包含一项乐器练习、一项球类运动以及一件用时一小时的事情。",
+        "target_keywords": [
+          "an hour",
+          "play the piano",
+          "play football",
+          "a useful book"
+        ],
+        "template": "It took me ______ (an hour) to read ______ (a useful book). In the afternoon, I played ______ and played ______...",
+        "sample": "It took me an hour to finish reading a useful novel. After that, I played the violin for thirty minutes and then played football with my classmates."
+      },
+      "ladder_steps": [
+        "第一步·辨析首音素：读出单词首个音素（元音音素用 an，辅音音素用 a）。",
+        "第二步·特指与零冠词匹配：乐器加 the，球类/三餐零冠词。",
+        "第三步·情境造句：自然串联两个动作，时态保持一致。"
+      ]
     }
   },
   {
@@ -767,6 +1250,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【人称代词（主格/宾格）与物主代词（形容词性/名词性）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Just between you and I, this red schoolbag is not my, it must be she.",
+        "diagnosis": "1. between 为介词，介词后必须接人称代词宾格 me，不能用主格 I；2. my 为形容词性物主代词不能单独作表语，需用名词性物主代词 mine；3. she 是主格，此处需用名词性物主代词 hers。",
+        "cure_sentence": "Just between you and me, this red schoolbag is not mine, it must be hers."
+      },
+      "creation_task": {
+        "scene": "【失物招领对话】：你和同桌在教室地上捡到一个精致的笔袋，你们正在讨论是谁的文具。",
+        "target_keywords": [
+          "between you and me",
+          "mine",
+          "hers / yours",
+          "help oneself"
+        ],
+        "template": "Between you and me, is this blue pencil case ______ (yours)? No, ______ (mine) is in my schoolbag...",
+        "sample": "Just between you and me, is this dictionary yours? No, mine is in my desk. Alice is looking for hers everywhere, so it must be hers!"
+      },
+      "ladder_steps": [
+        "第一步·定位格位：动词介词后用宾格，名物代等于形物代加名词。",
+        "第二步·指代一致：检查上下文单数/复数及性别指代是否统一。",
+        "第三步·对话创编：融入真实社交语气，提升交际生动性。"
+      ]
     }
   },
   {
@@ -802,6 +1308,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【反身代词 (-self / -selves) 的用法与固定搭配】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Just between you and I, this red schoolbag is not my, it must be she.",
+        "diagnosis": "1. between 为介词，介词后必须接人称代词宾格 me，不能用主格 I；2. my 为形容词性物主代词不能单独作表语，需用名词性物主代词 mine；3. she 是主格，此处需用名词性物主代词 hers。",
+        "cure_sentence": "Just between you and me, this red schoolbag is not mine, it must be hers."
+      },
+      "creation_task": {
+        "scene": "【失物招领对话】：你和同桌在教室地上捡到一个精致的笔袋，你们正在讨论是谁的文具。",
+        "target_keywords": [
+          "between you and me",
+          "mine",
+          "hers / yours",
+          "help oneself"
+        ],
+        "template": "Between you and me, is this blue pencil case ______ (yours)? No, ______ (mine) is in my schoolbag...",
+        "sample": "Just between you and me, is this dictionary yours? No, mine is in my desk. Alice is looking for hers everywhere, so it must be hers!"
+      },
+      "ladder_steps": [
+        "第一步·定位格位：动词介词后用宾格，名物代等于形物代加名词。",
+        "第二步·指代一致：检查上下文单数/复数及性别指代是否统一。",
+        "第三步·对话创编：融入真实社交语气，提升交际生动性。"
+      ]
     }
   },
   {
@@ -837,6 +1366,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【指示代词 this/that/these/those 与电话/替代用法】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Just between you and I, this red schoolbag is not my, it must be she.",
+        "diagnosis": "1. between 为介词，介词后必须接人称代词宾格 me，不能用主格 I；2. my 为形容词性物主代词不能单独作表语，需用名词性物主代词 mine；3. she 是主格，此处需用名词性物主代词 hers。",
+        "cure_sentence": "Just between you and me, this red schoolbag is not mine, it must be hers."
+      },
+      "creation_task": {
+        "scene": "【失物招领对话】：你和同桌在教室地上捡到一个精致的笔袋，你们正在讨论是谁的文具。",
+        "target_keywords": [
+          "between you and me",
+          "mine",
+          "hers / yours",
+          "help oneself"
+        ],
+        "template": "Between you and me, is this blue pencil case ______ (yours)? No, ______ (mine) is in my schoolbag...",
+        "sample": "Just between you and me, is this dictionary yours? No, mine is in my desk. Alice is looking for hers everywhere, so it must be hers!"
+      },
+      "ladder_steps": [
+        "第一步·定位格位：动词介词后用宾格，名物代等于形物代加名词。",
+        "第二步·指代一致：检查上下文单数/复数及性别指代是否统一。",
+        "第三步·对话创编：融入真实社交语气，提升交际生动性。"
+      ]
     }
   },
   {
@@ -872,6 +1424,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【疑问代词 who/whom/whose/what/which 的用法】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Just between you and I, this red schoolbag is not my, it must be she.",
+        "diagnosis": "1. between 为介词，介词后必须接人称代词宾格 me，不能用主格 I；2. my 为形容词性物主代词不能单独作表语，需用名词性物主代词 mine；3. she 是主格，此处需用名词性物主代词 hers。",
+        "cure_sentence": "Just between you and me, this red schoolbag is not mine, it must be hers."
+      },
+      "creation_task": {
+        "scene": "【失物招领对话】：你和同桌在教室地上捡到一个精致的笔袋，你们正在讨论是谁的文具。",
+        "target_keywords": [
+          "between you and me",
+          "mine",
+          "hers / yours",
+          "help oneself"
+        ],
+        "template": "Between you and me, is this blue pencil case ______ (yours)? No, ______ (mine) is in my schoolbag...",
+        "sample": "Just between you and me, is this dictionary yours? No, mine is in my desk. Alice is looking for hers everywhere, so it must be hers!"
+      },
+      "ladder_steps": [
+        "第一步·定位格位：动词介词后用宾格，名物代等于形物代加名词。",
+        "第二步·指代一致：检查上下文单数/复数及性别指代是否统一。",
+        "第三步·对话创编：融入真实社交语气，提升交际生动性。"
+      ]
     }
   },
   {
@@ -907,6 +1482,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【普通不定代词 some/any/no/every 及其辨析】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Just between you and I, this red schoolbag is not my, it must be she.",
+        "diagnosis": "1. between 为介词，介词后必须接人称代词宾格 me，不能用主格 I；2. my 为形容词性物主代词不能单独作表语，需用名词性物主代词 mine；3. she 是主格，此处需用名词性物主代词 hers。",
+        "cure_sentence": "Just between you and me, this red schoolbag is not mine, it must be hers."
+      },
+      "creation_task": {
+        "scene": "【失物招领对话】：你和同桌在教室地上捡到一个精致的笔袋，你们正在讨论是谁的文具。",
+        "target_keywords": [
+          "between you and me",
+          "mine",
+          "hers / yours",
+          "help oneself"
+        ],
+        "template": "Between you and me, is this blue pencil case ______ (yours)? No, ______ (mine) is in my schoolbag...",
+        "sample": "Just between you and me, is this dictionary yours? No, mine is in my desk. Alice is looking for hers everywhere, so it must be hers!"
+      },
+      "ladder_steps": [
+        "第一步·定位格位：动词介词后用宾格，名物代等于形物代加名词。",
+        "第二步·指代一致：检查上下文单数/复数及性别指代是否统一。",
+        "第三步·对话创编：融入真实社交语气，提升交际生动性。"
+      ]
     }
   },
   {
@@ -942,6 +1540,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【复合不定代词 (someone/anything等) 的形容词后置与单复数】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Just between you and I, this red schoolbag is not my, it must be she.",
+        "diagnosis": "1. between 为介词，介词后必须接人称代词宾格 me，不能用主格 I；2. my 为形容词性物主代词不能单独作表语，需用名词性物主代词 mine；3. she 是主格，此处需用名词性物主代词 hers。",
+        "cure_sentence": "Just between you and me, this red schoolbag is not mine, it must be hers."
+      },
+      "creation_task": {
+        "scene": "【失物招领对话】：你和同桌在教室地上捡到一个精致的笔袋，你们正在讨论是谁的文具。",
+        "target_keywords": [
+          "between you and me",
+          "mine",
+          "hers / yours",
+          "help oneself"
+        ],
+        "template": "Between you and me, is this blue pencil case ______ (yours)? No, ______ (mine) is in my schoolbag...",
+        "sample": "Just between you and me, is this dictionary yours? No, mine is in my desk. Alice is looking for hers everywhere, so it must be hers!"
+      },
+      "ladder_steps": [
+        "第一步·定位格位：动词介词后用宾格，名物代等于形物代加名词。",
+        "第二步·指代一致：检查上下文单数/复数及性别指代是否统一。",
+        "第三步·对话创编：融入真实社交语气，提升交际生动性。"
+      ]
     }
   },
   {
@@ -977,6 +1598,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【基数词的构成规律（几十几、百千大数写法）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "My brother is a 12-years-old boy and his birthday is on the twelveth of October.",
+        "diagnosis": "1. 由连字符连接的复合形容词 12-year-old，中间的名词 year 必须用单数；2. 第十二的序数词应为 twelfth (ve变f加th)，拼写不可漏掉 f 或多写 e。",
+        "cure_sentence": "My brother is a 12-year-old boy and his birthday is on the twelfth of October."
+      },
+      "creation_task": {
+        "scene": "【个人身份卡制作】：用英文写一段关于你的年龄、家庭门牌号、所在楼层与生日的介绍。",
+        "target_keywords": [
+          "-year-old",
+          "twelfth / first / second",
+          "on the ... floor",
+          "thousands of"
+        ],
+        "template": "I am a ______ (13-year-old) student. My classroom is on the ______ (second) floor...",
+        "sample": "I am a 13-year-old junior high student. My classroom is located on the second floor of the teaching building, and my birthday is on the twelfth of December."
+      },
+      "ladder_steps": [
+        "第一步·基序互换：判断是数数量（基数词）还是排顺序/日期/楼层（序数词）。",
+        "第二步·特殊拼写检查：检查 eighth, ninth, twelfth, twentieth 的拼写。",
+        "第三步·复合词造句：规范使用连字符，确保修饰名词单数。"
+      ]
     }
   },
   {
@@ -1012,6 +1656,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【基数词的用法（时刻表达、年份、编号及百千万确数/概数）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "My brother is a 12-years-old boy and his birthday is on the twelveth of October.",
+        "diagnosis": "1. 由连字符连接的复合形容词 12-year-old，中间的名词 year 必须用单数；2. 第十二的序数词应为 twelfth (ve变f加th)，拼写不可漏掉 f 或多写 e。",
+        "cure_sentence": "My brother is a 12-year-old boy and his birthday is on the twelfth of October."
+      },
+      "creation_task": {
+        "scene": "【个人身份卡制作】：用英文写一段关于你的年龄、家庭门牌号、所在楼层与生日的介绍。",
+        "target_keywords": [
+          "-year-old",
+          "twelfth / first / second",
+          "on the ... floor",
+          "thousands of"
+        ],
+        "template": "I am a ______ (13-year-old) student. My classroom is on the ______ (second) floor...",
+        "sample": "I am a 13-year-old junior high student. My classroom is located on the second floor of the teaching building, and my birthday is on the twelfth of December."
+      },
+      "ladder_steps": [
+        "第一步·基序互换：判断是数数量（基数词）还是排顺序/日期/楼层（序数词）。",
+        "第二步·特殊拼写检查：检查 eighth, ninth, twelfth, twentieth 的拼写。",
+        "第三步·复合词造句：规范使用连字符，确保修饰名词单数。"
+      ]
     }
   },
   {
@@ -1047,6 +1714,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【序数词的缩写与口诀（一二三特殊记，th从四起，八去t九去e）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "My brother is a 12-years-old boy and his birthday is on the twelveth of October.",
+        "diagnosis": "1. 由连字符连接的复合形容词 12-year-old，中间的名词 year 必须用单数；2. 第十二的序数词应为 twelfth (ve变f加th)，拼写不可漏掉 f 或多写 e。",
+        "cure_sentence": "My brother is a 12-year-old boy and his birthday is on the twelfth of October."
+      },
+      "creation_task": {
+        "scene": "【个人身份卡制作】：用英文写一段关于你的年龄、家庭门牌号、所在楼层与生日的介绍。",
+        "target_keywords": [
+          "-year-old",
+          "twelfth / first / second",
+          "on the ... floor",
+          "thousands of"
+        ],
+        "template": "I am a ______ (13-year-old) student. My classroom is on the ______ (second) floor...",
+        "sample": "I am a 13-year-old junior high student. My classroom is located on the second floor of the teaching building, and my birthday is on the twelfth of December."
+      },
+      "ladder_steps": [
+        "第一步·基序互换：判断是数数量（基数词）还是排顺序/日期/楼层（序数词）。",
+        "第二步·特殊拼写检查：检查 eighth, ninth, twelfth, twentieth 的拼写。",
+        "第三步·复合词造句：规范使用连字符，确保修饰名词单数。"
+      ]
     }
   },
   {
@@ -1082,6 +1772,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【序数词的用法（日期、楼层、排行与定冠词搭配）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "My brother is a 12-years-old boy and his birthday is on the twelveth of October.",
+        "diagnosis": "1. 由连字符连接的复合形容词 12-year-old，中间的名词 year 必须用单数；2. 第十二的序数词应为 twelfth (ve变f加th)，拼写不可漏掉 f 或多写 e。",
+        "cure_sentence": "My brother is a 12-year-old boy and his birthday is on the twelfth of October."
+      },
+      "creation_task": {
+        "scene": "【个人身份卡制作】：用英文写一段关于你的年龄、家庭门牌号、所在楼层与生日的介绍。",
+        "target_keywords": [
+          "-year-old",
+          "twelfth / first / second",
+          "on the ... floor",
+          "thousands of"
+        ],
+        "template": "I am a ______ (13-year-old) student. My classroom is on the ______ (second) floor...",
+        "sample": "I am a 13-year-old junior high student. My classroom is located on the second floor of the teaching building, and my birthday is on the twelfth of December."
+      },
+      "ladder_steps": [
+        "第一步·基序互换：判断是数数量（基数词）还是排顺序/日期/楼层（序数词）。",
+        "第二步·特殊拼写检查：检查 eighth, ninth, twelfth, twentieth 的拼写。",
+        "第三步·复合词造句：规范使用连字符，确保修饰名词单数。"
+      ]
     }
   },
   {
@@ -1117,6 +1830,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【时间介词 in / on / at 的精准层级划分与固定口诀】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The students walked through the street in the morning of September 1st.",
+        "diagnosis": "1. 街道属于平面空间，穿过街道应用 across；through 用于立体穿过（如穿过森林、隧道）；2. 虽然有 morning，但后面有 of September 1st 限定具体日期，介词必须用 on。",
+        "cure_sentence": "The students walked across the street on the morning of September 1st."
+      },
+      "creation_task": {
+        "scene": "【校园漫步日记】：描写你开学第一天早上穿过校园广场、走进图书馆的过程。",
+        "target_keywords": [
+          "on the morning of",
+          "walk across",
+          "through the gate",
+          "at 7:30"
+        ],
+        "template": "On the morning of ______ (September 1st), I arrived at school at ______ (7:30). I walked across the ______ and went into...",
+        "sample": "On the cool morning of September 1st, I arrived at school at 7:30. I walked across the playground and passed through the library hall to greet my new teacher."
+      },
+      "ladder_steps": [
+        "第一步·空间/时间分层：判断是点状瞄准 (at)、表面跨越 (on/across) 还是空间包容 (in/through)。",
+        "第二步·限定词雷达：注意具体某天上下文使 in 升级为 on 的规则。",
+        "第三步·行文造句：结合方位介词构建具有画面感的动态描写。"
+      ]
     }
   },
   {
@@ -1152,6 +1888,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【其他时间介词 (for / since / before / after / by / during)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The students walked through the street in the morning of September 1st.",
+        "diagnosis": "1. 街道属于平面空间，穿过街道应用 across；through 用于立体穿过（如穿过森林、隧道）；2. 虽然有 morning，但后面有 of September 1st 限定具体日期，介词必须用 on。",
+        "cure_sentence": "The students walked across the street on the morning of September 1st."
+      },
+      "creation_task": {
+        "scene": "【校园漫步日记】：描写你开学第一天早上穿过校园广场、走进图书馆的过程。",
+        "target_keywords": [
+          "on the morning of",
+          "walk across",
+          "through the gate",
+          "at 7:30"
+        ],
+        "template": "On the morning of ______ (September 1st), I arrived at school at ______ (7:30). I walked across the ______ and went into...",
+        "sample": "On the cool morning of September 1st, I arrived at school at 7:30. I walked across the playground and passed through the library hall to greet my new teacher."
+      },
+      "ladder_steps": [
+        "第一步·空间/时间分层：判断是点状瞄准 (at)、表面跨越 (on/across) 还是空间包容 (in/through)。",
+        "第二步·限定词雷达：注意具体某天上下文使 in 升级为 on 的规则。",
+        "第三步·行文造句：结合方位介词构建具有画面感的动态描写。"
+      ]
     }
   },
   {
@@ -1187,6 +1946,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【方位介词（上下中前后：in/on/at, over/under, above/below, between/among）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The students walked through the street in the morning of September 1st.",
+        "diagnosis": "1. 街道属于平面空间，穿过街道应用 across；through 用于立体穿过（如穿过森林、隧道）；2. 虽然有 morning，但后面有 of September 1st 限定具体日期，介词必须用 on。",
+        "cure_sentence": "The students walked across the street on the morning of September 1st."
+      },
+      "creation_task": {
+        "scene": "【校园漫步日记】：描写你开学第一天早上穿过校园广场、走进图书馆的过程。",
+        "target_keywords": [
+          "on the morning of",
+          "walk across",
+          "through the gate",
+          "at 7:30"
+        ],
+        "template": "On the morning of ______ (September 1st), I arrived at school at ______ (7:30). I walked across the ______ and went into...",
+        "sample": "On the cool morning of September 1st, I arrived at school at 7:30. I walked across the playground and passed through the library hall to greet my new teacher."
+      },
+      "ladder_steps": [
+        "第一步·空间/时间分层：判断是点状瞄准 (at)、表面跨越 (on/across) 还是空间包容 (in/through)。",
+        "第二步·限定词雷达：注意具体某天上下文使 in 升级为 on 的规则。",
+        "第三步·行文造句：结合方位介词构建具有画面感的动态描写。"
+      ]
     }
   },
   {
@@ -1222,6 +2004,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【运动与方向介词 (into/out of, across/through, to/towards)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The students walked through the street in the morning of September 1st.",
+        "diagnosis": "1. 街道属于平面空间，穿过街道应用 across；through 用于立体穿过（如穿过森林、隧道）；2. 虽然有 morning，但后面有 of September 1st 限定具体日期，介词必须用 on。",
+        "cure_sentence": "The students walked across the street on the morning of September 1st."
+      },
+      "creation_task": {
+        "scene": "【校园漫步日记】：描写你开学第一天早上穿过校园广场、走进图书馆的过程。",
+        "target_keywords": [
+          "on the morning of",
+          "walk across",
+          "through the gate",
+          "at 7:30"
+        ],
+        "template": "On the morning of ______ (September 1st), I arrived at school at ______ (7:30). I walked across the ______ and went into...",
+        "sample": "On the cool morning of September 1st, I arrived at school at 7:30. I walked across the playground and passed through the library hall to greet my new teacher."
+      },
+      "ladder_steps": [
+        "第一步·空间/时间分层：判断是点状瞄准 (at)、表面跨越 (on/across) 还是空间包容 (in/through)。",
+        "第二步·限定词雷达：注意具体某天上下文使 in 升级为 on 的规则。",
+        "第三步·行文造句：结合方位介词构建具有画面感的动态描写。"
+      ]
     }
   },
   {
@@ -1257,6 +2062,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【只接不定式 (to do) 的高频动词口诀与用法】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma decided starting a reading club because she enjoys to write stories.",
+        "diagnosis": "1. decide 后面只能接动词不定式 to do (decide to start)；2. enjoy 后面只能接动名词 doing (enjoys writing)。两处非谓语搭配完全相反！",
+        "cure_sentence": "Emma decided to start a reading club because she enjoys writing stories."
+      },
+      "creation_task": {
+        "scene": "【兴趣小组招新启事】：你打算在班级里成立一个英语戏剧俱乐部，写两句号召新成员加入的口号。",
+        "target_keywords": [
+          "decide to do",
+          "enjoy doing",
+          "look forward to",
+          "stop to do"
+        ],
+        "template": "If you enjoy ______ (reading/acting), why not decide ______ (to join) our drama club? We look forward to ______...",
+        "sample": "If you enjoy writing fantasy stories and acting on stage, decide to join our English Drama Club today! We are looking forward to sharing laughter with you."
+      },
+      "ladder_steps": [
+        "第一步·锁定前置动词：区分是 enjoy/finish 家族（接 doing）还是 decide/hope 家族（接 to do）。",
+        "第二步·特殊介词识别：牢记 look forward to 中 to 是介词，后面必须用 doing。",
+        "第三步·情境创编：运用两个对比非谓语结构编写一段连贯呼吁。"
+      ]
     }
   },
   {
@@ -1292,6 +2120,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【只接动名词 (doing) 的高频动词或短语 (enjoy, finish, practice等)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma decided starting a reading club because she enjoys to write stories.",
+        "diagnosis": "1. decide 后面只能接动词不定式 to do (decide to start)；2. enjoy 后面只能接动名词 doing (enjoys writing)。两处非谓语搭配完全相反！",
+        "cure_sentence": "Emma decided to start a reading club because she enjoys writing stories."
+      },
+      "creation_task": {
+        "scene": "【兴趣小组招新启事】：你打算在班级里成立一个英语戏剧俱乐部，写两句号召新成员加入的口号。",
+        "target_keywords": [
+          "decide to do",
+          "enjoy doing",
+          "look forward to",
+          "stop to do"
+        ],
+        "template": "If you enjoy ______ (reading/acting), why not decide ______ (to join) our drama club? We look forward to ______...",
+        "sample": "If you enjoy writing fantasy stories and acting on stage, decide to join our English Drama Club today! We are looking forward to sharing laughter with you."
+      },
+      "ladder_steps": [
+        "第一步·锁定前置动词：区分是 enjoy/finish 家族（接 doing）还是 decide/hope 家族（接 to do）。",
+        "第二步·特殊介词识别：牢记 look forward to 中 to 是介词，后面必须用 doing。",
+        "第三步·情境创编：运用两个对比非谓语结构编写一段连贯呼吁。"
+      ]
     }
   },
   {
@@ -1327,6 +2178,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【既可接 to do 又可接 doing 但含义截然相反的动词 (remember/forget/stop等)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma decided starting a reading club because she enjoys to write stories.",
+        "diagnosis": "1. decide 后面只能接动词不定式 to do (decide to start)；2. enjoy 后面只能接动名词 doing (enjoys writing)。两处非谓语搭配完全相反！",
+        "cure_sentence": "Emma decided to start a reading club because she enjoys writing stories."
+      },
+      "creation_task": {
+        "scene": "【兴趣小组招新启事】：你打算在班级里成立一个英语戏剧俱乐部，写两句号召新成员加入的口号。",
+        "target_keywords": [
+          "decide to do",
+          "enjoy doing",
+          "look forward to",
+          "stop to do"
+        ],
+        "template": "If you enjoy ______ (reading/acting), why not decide ______ (to join) our drama club? We look forward to ______...",
+        "sample": "If you enjoy writing fantasy stories and acting on stage, decide to join our English Drama Club today! We are looking forward to sharing laughter with you."
+      },
+      "ladder_steps": [
+        "第一步·锁定前置动词：区分是 enjoy/finish 家族（接 doing）还是 decide/hope 家族（接 to do）。",
+        "第二步·特殊介词识别：牢记 look forward to 中 to 是介词，后面必须用 doing。",
+        "第三步·情境创编：运用两个对比非谓语结构编写一段连贯呼吁。"
+      ]
     }
   },
   {
@@ -1362,6 +2236,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【动词短语的四种搭配类型 (动+副代词放中间等)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma decided starting a reading club because she enjoys to write stories.",
+        "diagnosis": "1. decide 后面只能接动词不定式 to do (decide to start)；2. enjoy 后面只能接动名词 doing (enjoys writing)。两处非谓语搭配完全相反！",
+        "cure_sentence": "Emma decided to start a reading club because she enjoys writing stories."
+      },
+      "creation_task": {
+        "scene": "【兴趣小组招新启事】：你打算在班级里成立一个英语戏剧俱乐部，写两句号召新成员加入的口号。",
+        "target_keywords": [
+          "decide to do",
+          "enjoy doing",
+          "look forward to",
+          "stop to do"
+        ],
+        "template": "If you enjoy ______ (reading/acting), why not decide ______ (to join) our drama club? We look forward to ______...",
+        "sample": "If you enjoy writing fantasy stories and acting on stage, decide to join our English Drama Club today! We are looking forward to sharing laughter with you."
+      },
+      "ladder_steps": [
+        "第一步·锁定前置动词：区分是 enjoy/finish 家族（接 doing）还是 decide/hope 家族（接 to do）。",
+        "第二步·特殊介词识别：牢记 look forward to 中 to 是介词，后面必须用 doing。",
+        "第三步·情境创编：运用两个对比非谓语结构编写一段连贯呼吁。"
+      ]
     }
   },
   {
@@ -1397,6 +2294,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【情态动词表能力、允许与推测 (can/could, may/might, must/can't)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma decided starting a reading club because she enjoys to write stories.",
+        "diagnosis": "1. decide 后面只能接动词不定式 to do (decide to start)；2. enjoy 后面只能接动名词 doing (enjoys writing)。两处非谓语搭配完全相反！",
+        "cure_sentence": "Emma decided to start a reading club because she enjoys writing stories."
+      },
+      "creation_task": {
+        "scene": "【兴趣小组招新启事】：你打算在班级里成立一个英语戏剧俱乐部，写两句号召新成员加入的口号。",
+        "target_keywords": [
+          "decide to do",
+          "enjoy doing",
+          "look forward to",
+          "stop to do"
+        ],
+        "template": "If you enjoy ______ (reading/acting), why not decide ______ (to join) our drama club? We look forward to ______...",
+        "sample": "If you enjoy writing fantasy stories and acting on stage, decide to join our English Drama Club today! We are looking forward to sharing laughter with you."
+      },
+      "ladder_steps": [
+        "第一步·锁定前置动词：区分是 enjoy/finish 家族（接 doing）还是 decide/hope 家族（接 to do）。",
+        "第二步·特殊介词识别：牢记 look forward to 中 to 是介词，后面必须用 doing。",
+        "第三步·情境创编：运用两个对比非谓语结构编写一段连贯呼吁。"
+      ]
     }
   },
   {
@@ -1432,6 +2352,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【情态动词表示请求与委婉问答 (Could/Would you please...)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma decided starting a reading club because she enjoys to write stories.",
+        "diagnosis": "1. decide 后面只能接动词不定式 to do (decide to start)；2. enjoy 后面只能接动名词 doing (enjoys writing)。两处非谓语搭配完全相反！",
+        "cure_sentence": "Emma decided to start a reading club because she enjoys writing stories."
+      },
+      "creation_task": {
+        "scene": "【兴趣小组招新启事】：你打算在班级里成立一个英语戏剧俱乐部，写两句号召新成员加入的口号。",
+        "target_keywords": [
+          "decide to do",
+          "enjoy doing",
+          "look forward to",
+          "stop to do"
+        ],
+        "template": "If you enjoy ______ (reading/acting), why not decide ______ (to join) our drama club? We look forward to ______...",
+        "sample": "If you enjoy writing fantasy stories and acting on stage, decide to join our English Drama Club today! We are looking forward to sharing laughter with you."
+      },
+      "ladder_steps": [
+        "第一步·锁定前置动词：区分是 enjoy/finish 家族（接 doing）还是 decide/hope 家族（接 to do）。",
+        "第二步·特殊介词识别：牢记 look forward to 中 to 是介词，后面必须用 doing。",
+        "第三步·情境创编：运用两个对比非谓语结构编写一段连贯呼吁。"
+      ]
     }
   },
   {
@@ -1467,6 +2410,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【情态动词表示建议 (shall, should, had better)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma decided starting a reading club because she enjoys to write stories.",
+        "diagnosis": "1. decide 后面只能接动词不定式 to do (decide to start)；2. enjoy 后面只能接动名词 doing (enjoys writing)。两处非谓语搭配完全相反！",
+        "cure_sentence": "Emma decided to start a reading club because she enjoys writing stories."
+      },
+      "creation_task": {
+        "scene": "【兴趣小组招新启事】：你打算在班级里成立一个英语戏剧俱乐部，写两句号召新成员加入的口号。",
+        "target_keywords": [
+          "decide to do",
+          "enjoy doing",
+          "look forward to",
+          "stop to do"
+        ],
+        "template": "If you enjoy ______ (reading/acting), why not decide ______ (to join) our drama club? We look forward to ______...",
+        "sample": "If you enjoy writing fantasy stories and acting on stage, decide to join our English Drama Club today! We are looking forward to sharing laughter with you."
+      },
+      "ladder_steps": [
+        "第一步·锁定前置动词：区分是 enjoy/finish 家族（接 doing）还是 decide/hope 家族（接 to do）。",
+        "第二步·特殊介词识别：牢记 look forward to 中 to 是介词，后面必须用 doing。",
+        "第三步·情境创编：运用两个对比非谓语结构编写一段连贯呼吁。"
+      ]
     }
   },
   {
@@ -1502,6 +2468,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【形容词与副词的句法功能与位置差异】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The more books you read, you will become very wiser than before.",
+        "diagnosis": "1. the more..., the more... 是固定句式，后半句必须也以 the + 比较级开头；2. 修饰比较级 wiser 不能使用 very，必须使用 much 或 far。",
+        "cure_sentence": "The more books you read, the much wiser you will become."
+      },
+      "creation_task": {
+        "scene": "【中考座右铭创编】：写一句关于勤奋学习与知识积累的格言，用于贴在你的书桌前鼓励自己。",
+        "target_keywords": [
+          "the more..., the more...",
+          "much better",
+          "as...as",
+          "one of the most..."
+        ],
+        "template": "The harder you work, the ______ you will be. Every day is ______ than yesterday...",
+        "sample": "The harder you study every day, the much better your future will be. Persistence is one of the most powerful qualities in the world."
+      },
+      "ladder_steps": [
+        "第一步·确认比较范围：两者对比用比较级，三者及以上用最高级。",
+        "第二步·修饰词排雷：坚决排除 very + 比较级的错误，改用 much/a lot/even。",
+        "第三步·格言创编：运用对称结构输出朗朗上口的座右铭。"
+      ]
     }
   },
   {
@@ -1537,6 +2526,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【形容词变副词的拼写与规则变异口诀】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The more books you read, you will become very wiser than before.",
+        "diagnosis": "1. the more..., the more... 是固定句式，后半句必须也以 the + 比较级开头；2. 修饰比较级 wiser 不能使用 very，必须使用 much 或 far。",
+        "cure_sentence": "The more books you read, the much wiser you will become."
+      },
+      "creation_task": {
+        "scene": "【中考座右铭创编】：写一句关于勤奋学习与知识积累的格言，用于贴在你的书桌前鼓励自己。",
+        "target_keywords": [
+          "the more..., the more...",
+          "much better",
+          "as...as",
+          "one of the most..."
+        ],
+        "template": "The harder you work, the ______ you will be. Every day is ______ than yesterday...",
+        "sample": "The harder you study every day, the much better your future will be. Persistence is one of the most powerful qualities in the world."
+      },
+      "ladder_steps": [
+        "第一步·确认比较范围：两者对比用比较级，三者及以上用最高级。",
+        "第二步·修饰词排雷：坚决排除 very + 比较级的错误，改用 much/a lot/even。",
+        "第三步·格言创编：运用对称结构输出朗朗上口的座右铭。"
+      ]
     }
   },
   {
@@ -1572,6 +2584,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【易混淆同形或相似副词辨析 (hard/hardly, late/lately等)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The more books you read, you will become very wiser than before.",
+        "diagnosis": "1. the more..., the more... 是固定句式，后半句必须也以 the + 比较级开头；2. 修饰比较级 wiser 不能使用 very，必须使用 much 或 far。",
+        "cure_sentence": "The more books you read, the much wiser you will become."
+      },
+      "creation_task": {
+        "scene": "【中考座右铭创编】：写一句关于勤奋学习与知识积累的格言，用于贴在你的书桌前鼓励自己。",
+        "target_keywords": [
+          "the more..., the more...",
+          "much better",
+          "as...as",
+          "one of the most..."
+        ],
+        "template": "The harder you work, the ______ you will be. Every day is ______ than yesterday...",
+        "sample": "The harder you study every day, the much better your future will be. Persistence is one of the most powerful qualities in the world."
+      },
+      "ladder_steps": [
+        "第一步·确认比较范围：两者对比用比较级，三者及以上用最高级。",
+        "第二步·修饰词排雷：坚决排除 very + 比较级的错误，改用 much/a lot/even。",
+        "第三步·格言创编：运用对称结构输出朗朗上口的座右铭。"
+      ]
     }
   },
   {
@@ -1607,6 +2642,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【形容词与副词比较级和最高级的规则与不规则变形】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The more books you read, you will become very wiser than before.",
+        "diagnosis": "1. the more..., the more... 是固定句式，后半句必须也以 the + 比较级开头；2. 修饰比较级 wiser 不能使用 very，必须使用 much 或 far。",
+        "cure_sentence": "The more books you read, the much wiser you will become."
+      },
+      "creation_task": {
+        "scene": "【中考座右铭创编】：写一句关于勤奋学习与知识积累的格言，用于贴在你的书桌前鼓励自己。",
+        "target_keywords": [
+          "the more..., the more...",
+          "much better",
+          "as...as",
+          "one of the most..."
+        ],
+        "template": "The harder you work, the ______ you will be. Every day is ______ than yesterday...",
+        "sample": "The harder you study every day, the much better your future will be. Persistence is one of the most powerful qualities in the world."
+      },
+      "ladder_steps": [
+        "第一步·确认比较范围：两者对比用比较级，三者及以上用最高级。",
+        "第二步·修饰词排雷：坚决排除 very + 比较级的错误，改用 much/a lot/even。",
+        "第三步·格言创编：运用对称结构输出朗朗上口的座右铭。"
+      ]
     }
   },
   {
@@ -1642,6 +2700,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【比较等级三大核心句型 (原级 as...as, 比较级 the more, the more, 最高级范围)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "The more books you read, you will become very wiser than before.",
+        "diagnosis": "1. the more..., the more... 是固定句式，后半句必须也以 the + 比较级开头；2. 修饰比较级 wiser 不能使用 very，必须使用 much 或 far。",
+        "cure_sentence": "The more books you read, the much wiser you will become."
+      },
+      "creation_task": {
+        "scene": "【中考座右铭创编】：写一句关于勤奋学习与知识积累的格言，用于贴在你的书桌前鼓励自己。",
+        "target_keywords": [
+          "the more..., the more...",
+          "much better",
+          "as...as",
+          "one of the most..."
+        ],
+        "template": "The harder you work, the ______ you will be. Every day is ______ than yesterday...",
+        "sample": "The harder you study every day, the much better your future will be. Persistence is one of the most powerful qualities in the world."
+      },
+      "ladder_steps": [
+        "第一步·确认比较范围：两者对比用比较级，三者及以上用最高级。",
+        "第二步·修饰词排雷：坚决排除 very + 比较级的错误，改用 much/a lot/even。",
+        "第三步·格言创编：运用对称结构输出朗朗上口的座右铭。"
+      ]
     }
   },
   {
@@ -1677,6 +2758,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【一般现在时（第三人称单数变形与标志词）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -1712,6 +2816,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【一般过去时（规则/不规则动词过去式与标志词）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -1747,6 +2874,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【一般将来时 (will vs. be going to 区别与现在进行表将来)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -1782,6 +2932,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【现在进行时 (be + doing 结构与瞬间动词限制)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -1817,6 +2990,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【过去进行时 (was/were + doing 与 when/while 结合)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -1852,6 +3048,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【现在完成时 (have/has + done 核心结构、已完成 vs. 持续性动词转换)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -1887,6 +3106,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【过去完成时 (had + done '过去的过去'时间轴)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -1922,6 +3164,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【被动语态核心结构 (be + done) 与不带 to 的不定式变被动】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -1957,6 +3222,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【八大不同时态下的被动语态变形表】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Mr. Green has bought this bicycle for three years, and he rides it every day.",
+        "diagnosis": "buy 是瞬间非延续性动词，不能与表示一段的时间状语 for three years 连用；必须将 buy 转换为延续性状态 have (has had)。",
+        "cure_sentence": "Mr. Green has had this bicycle for three years, and he rides it every day."
+      },
+      "creation_task": {
+        "scene": "【我的宝贝自述】：介绍一件你拥有一段时间的珍贵物品（如一本书、一辆自行车或一只宠物猫）。",
+        "target_keywords": [
+          "has had for ... years",
+          "bought ... ago",
+          "has been in",
+          "rides/reads every day"
+        ],
+        "template": "I have ______ (had) this book for ______ (two years). I bought it two years ago and I have read it...",
+        "sample": "I have had this English storybook for two years. My father bought it for me on my twelfth birthday, and I have read it three times so far."
+      },
+      "ladder_steps": [
+        "第一步·时空坐标定位：动作发生在过去还是延续到现在？判断一般过去时 vs 现在完成时。",
+        "第二步·延续性转换：若带有 for/since，立刻检查谓语是否为快门瞬间动词并进行状态转换。",
+        "第三步·连贯行文：结合过去购买时间与当前拥有状态，写出一段生动描述。"
+      ]
     }
   },
   {
@@ -1992,6 +3280,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【There be 句型的基本结构与时态变化】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are a teacher and thirty students in the library. The teacher with her students are reading.",
+        "diagnosis": "1. There be 遵从就近原则，紧靠动词的是单数 a teacher，必须用 There is；2. with 结构遵从就远原则，第一主语 The teacher 是单数，谓语动词必须用单数 is reading。",
+        "cure_sentence": "There is a teacher and thirty students in the library. The teacher with her students is reading."
+      },
+      "creation_task": {
+        "scene": "【图书馆场景描写】：描述放学后图书馆阅览室里的师生阅读场景，展现安静专注的氛围。",
+        "target_keywords": [
+          "There is a ... and ...",
+          "with his/her students",
+          "as well as",
+          "neither...nor"
+        ],
+        "template": "In our school library, there is ______ and ______. The teacher with the students ______...",
+        "sample": "In our school library, there is a teacher and forty students. The librarian, along with several volunteers, is putting new books on the wooden shelves."
+      },
+      "ladder_steps": [
+        "第一步·抓主干第一主语：遇 with, as well as, along with 时，忽略修饰挂件，单复数锁定第一主语。",
+        "第二步·就近排查：遇 there be, either...or 时，单复数只看最近邻居。",
+        "第三步·场景创编：融合两个原则写出一段层次分明的校园描写。"
+      ]
     }
   },
   {
@@ -2027,6 +3338,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【There be 句型的就近原则】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are a teacher and thirty students in the library. The teacher with her students are reading.",
+        "diagnosis": "1. There be 遵从就近原则，紧靠动词的是单数 a teacher，必须用 There is；2. with 结构遵从就远原则，第一主语 The teacher 是单数，谓语动词必须用单数 is reading。",
+        "cure_sentence": "There is a teacher and thirty students in the library. The teacher with her students is reading."
+      },
+      "creation_task": {
+        "scene": "【图书馆场景描写】：描述放学后图书馆阅览室里的师生阅读场景，展现安静专注的氛围。",
+        "target_keywords": [
+          "There is a ... and ...",
+          "with his/her students",
+          "as well as",
+          "neither...nor"
+        ],
+        "template": "In our school library, there is ______ and ______. The teacher with the students ______...",
+        "sample": "In our school library, there is a teacher and forty students. The librarian, along with several volunteers, is putting new books on the wooden shelves."
+      },
+      "ladder_steps": [
+        "第一步·抓主干第一主语：遇 with, as well as, along with 时，忽略修饰挂件，单复数锁定第一主语。",
+        "第二步·就近排查：遇 there be, either...or 时，单复数只看最近邻居。",
+        "第三步·场景创编：融合两个原则写出一段层次分明的校园描写。"
+      ]
     }
   },
   {
@@ -2062,6 +3396,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【疑问句（一般疑问句、特殊疑问句与选择疑问句）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are a teacher and thirty students in the library. The teacher with her students are reading.",
+        "diagnosis": "1. There be 遵从就近原则，紧靠动词的是单数 a teacher，必须用 There is；2. with 结构遵从就远原则，第一主语 The teacher 是单数，谓语动词必须用单数 is reading。",
+        "cure_sentence": "There is a teacher and thirty students in the library. The teacher with her students is reading."
+      },
+      "creation_task": {
+        "scene": "【图书馆场景描写】：描述放学后图书馆阅览室里的师生阅读场景，展现安静专注的氛围。",
+        "target_keywords": [
+          "There is a ... and ...",
+          "with his/her students",
+          "as well as",
+          "neither...nor"
+        ],
+        "template": "In our school library, there is ______ and ______. The teacher with the students ______...",
+        "sample": "In our school library, there is a teacher and forty students. The librarian, along with several volunteers, is putting new books on the wooden shelves."
+      },
+      "ladder_steps": [
+        "第一步·抓主干第一主语：遇 with, as well as, along with 时，忽略修饰挂件，单复数锁定第一主语。",
+        "第二步·就近排查：遇 there be, either...or 时，单复数只看最近邻居。",
+        "第三步·场景创编：融合两个原则写出一段层次分明的校园描写。"
+      ]
     }
   },
   {
@@ -2097,6 +3454,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【反意疑问句 (Tag Questions) 的前肯后否与特例口诀】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are a teacher and thirty students in the library. The teacher with her students are reading.",
+        "diagnosis": "1. There be 遵从就近原则，紧靠动词的是单数 a teacher，必须用 There is；2. with 结构遵从就远原则，第一主语 The teacher 是单数，谓语动词必须用单数 is reading。",
+        "cure_sentence": "There is a teacher and thirty students in the library. The teacher with her students is reading."
+      },
+      "creation_task": {
+        "scene": "【图书馆场景描写】：描述放学后图书馆阅览室里的师生阅读场景，展现安静专注的氛围。",
+        "target_keywords": [
+          "There is a ... and ...",
+          "with his/her students",
+          "as well as",
+          "neither...nor"
+        ],
+        "template": "In our school library, there is ______ and ______. The teacher with the students ______...",
+        "sample": "In our school library, there is a teacher and forty students. The librarian, along with several volunteers, is putting new books on the wooden shelves."
+      },
+      "ladder_steps": [
+        "第一步·抓主干第一主语：遇 with, as well as, along with 时，忽略修饰挂件，单复数锁定第一主语。",
+        "第二步·就近排查：遇 there be, either...or 时，单复数只看最近邻居。",
+        "第三步·场景创编：融合两个原则写出一段层次分明的校园描写。"
+      ]
     }
   },
   {
@@ -2132,6 +3512,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【祈使句与感叹句 (What 与 How 感叹句结构口诀)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are a teacher and thirty students in the library. The teacher with her students are reading.",
+        "diagnosis": "1. There be 遵从就近原则，紧靠动词的是单数 a teacher，必须用 There is；2. with 结构遵从就远原则，第一主语 The teacher 是单数，谓语动词必须用单数 is reading。",
+        "cure_sentence": "There is a teacher and thirty students in the library. The teacher with her students is reading."
+      },
+      "creation_task": {
+        "scene": "【图书馆场景描写】：描述放学后图书馆阅览室里的师生阅读场景，展现安静专注的氛围。",
+        "target_keywords": [
+          "There is a ... and ...",
+          "with his/her students",
+          "as well as",
+          "neither...nor"
+        ],
+        "template": "In our school library, there is ______ and ______. The teacher with the students ______...",
+        "sample": "In our school library, there is a teacher and forty students. The librarian, along with several volunteers, is putting new books on the wooden shelves."
+      },
+      "ladder_steps": [
+        "第一步·抓主干第一主语：遇 with, as well as, along with 时，忽略修饰挂件，单复数锁定第一主语。",
+        "第二步·就近排查：遇 there be, either...or 时，单复数只看最近邻居。",
+        "第三步·场景创编：融合两个原则写出一段层次分明的校园描写。"
+      ]
     }
   },
   {
@@ -2167,6 +3570,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【主谓一致三大原则（语法一致、意义一致与就近原则）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are a teacher and thirty students in the library. The teacher with her students are reading.",
+        "diagnosis": "1. There be 遵从就近原则，紧靠动词的是单数 a teacher，必须用 There is；2. with 结构遵从就远原则，第一主语 The teacher 是单数，谓语动词必须用单数 is reading。",
+        "cure_sentence": "There is a teacher and thirty students in the library. The teacher with her students is reading."
+      },
+      "creation_task": {
+        "scene": "【图书馆场景描写】：描述放学后图书馆阅览室里的师生阅读场景，展现安静专注的氛围。",
+        "target_keywords": [
+          "There is a ... and ...",
+          "with his/her students",
+          "as well as",
+          "neither...nor"
+        ],
+        "template": "In our school library, there is ______ and ______. The teacher with the students ______...",
+        "sample": "In our school library, there is a teacher and forty students. The librarian, along with several volunteers, is putting new books on the wooden shelves."
+      },
+      "ladder_steps": [
+        "第一步·抓主干第一主语：遇 with, as well as, along with 时，忽略修饰挂件，单复数锁定第一主语。",
+        "第二步·就近排查：遇 there be, either...or 时，单复数只看最近邻居。",
+        "第三步·场景创编：融合两个原则写出一段层次分明的校园描写。"
+      ]
     }
   },
   {
@@ -2202,6 +3628,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【直接引语变间接引语（人称、时态、指示代词与状语转换）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -2237,6 +3686,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【宾语从句三要素：连接词选择、陈述语序、主过从过与客观真理例外】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -2272,6 +3744,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【时间状语从句（when, while, as, as soon as '主将从现'原则）】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -2307,6 +3802,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【条件状语从句 (if / unless 与 '主将从现' 联动)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -2342,6 +3860,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【让步状语从句 (although/though 与 but 绝不连用原则)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -2377,6 +3918,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【原因、结果与目的状语从句 (because vs so, so...that, so that)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -2412,6 +3976,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【定语从句关系代词 (that, which, who, whom, whose 选词秘诀)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -2447,6 +4034,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
       "explanation": "分析：解答【定语从句关系副词 (where, when, why 的还原法判断)】相关题目时，关键在于结合上下文语境、时间标志词与句子核心结构进行逻辑推导，避免机械字面直译。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Could you tell me where does the library located? If it will be fine tomorrow, we will go there.",
+        "diagnosis": "1. 宾语从句绝不能使用 does 倒装，必须用陈述语序 where the library is located；2. 条件状语从句遵从‘主将从现’，主句是 will go，从句必须用一般现在时 is fine 代替将来时。",
+        "cure_sentence": "Could you tell me where the library is located? If it is fine tomorrow, we will go there."
+      },
+      "creation_task": {
+        "scene": "【周末出行规划】：你与新同学商量周末去博物馆或图书馆，礼貌询问路线并根据天气做计划。",
+        "target_keywords": [
+          "Could you tell me where...",
+          "if it is fine tomorrow",
+          "the scientist who...",
+          "as soon as"
+        ],
+        "template": "Excuse me, could you tell me ______ (where the museum is)? If the weather is good tomorrow, we will ______...",
+        "sample": "Excuse me, could you please tell me where the city library is? If it is sunny tomorrow, my friends and I will go there to read science books."
+      },
+      "ladder_steps": [
+        "第一步·语序强行扳正：把从句中的 does/did/is 倒装拔除，还原为‘主语在前，动词在后’。",
+        "第二步·时态时空锁：状语从句中主句将来时，从句直接锁定一般现在时。",
+        "第三步·交际对话创编：用礼貌句型衔接条件从句，完成高质量情境对话。"
+      ]
     }
   },
   {
@@ -2482,6 +4092,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：回顾课文中李明、Emma 或家庭瞬间的情感走向与时态线索。",
       "explanation": "pencil box 复合名词复数形式在核心名词后加 -es (pencil boxes)；rulers 为规则名词复数。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma stopped write because she felt lonely and she had old classmates here.",
+        "diagnosis": "1. 停止做某事应为 stop writing (接动名词)；2. 课文原意是 Emma 刚转学到这里没有老同学，应为 she had no old classmates here。",
+        "cure_sentence": "Emma stopped writing because she felt a little lonely and she had no old classmates here."
+      },
+      "creation_task": {
+        "scene": "【课文续写与共情】：以 Emma 或李明的视角，写一段你在新学校通过主动交往收获新朋友的心理变化。",
+        "target_keywords": [
+          "Emma in the library",
+          "start a writing club",
+          "A happy family brings...",
+          "loving moment"
+        ],
+        "template": "At first, I felt lonely because I had no friends here. Then I decided to ______... Now I realize that...",
+        "sample": "At first, Emma felt a little lonely in the new school. But she didn't give up. She decided to start a writing club in the library, and soon she made three close friends who love fantasy stories."
+      },
+      "ladder_steps": [
+        "第一步·还原课文真实细节：回溯 Emma、李明与家庭瞬间的关键情节。",
+        "第二步·情感线索提炼：从孤独/迷茫到主动采取行动并收获成长。",
+        "第三步·仿写创编：运用课文原声短语完成第一人称或第三人称短篇创作。"
+      ]
     }
   },
   {
@@ -2517,6 +4150,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：回顾课文中李明、Emma 或家庭瞬间的情感走向与时态线索。",
       "explanation": "名言警句与客观规律一律使用一般现在时，主语 A happy family 为单数概念，动词需用三单形式 brings。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma stopped write because she felt lonely and she had old classmates here.",
+        "diagnosis": "1. 停止做某事应为 stop writing (接动名词)；2. 课文原意是 Emma 刚转学到这里没有老同学，应为 she had no old classmates here。",
+        "cure_sentence": "Emma stopped writing because she felt a little lonely and she had no old classmates here."
+      },
+      "creation_task": {
+        "scene": "【课文续写与共情】：以 Emma 或李明的视角，写一段你在新学校通过主动交往收获新朋友的心理变化。",
+        "target_keywords": [
+          "Emma in the library",
+          "start a writing club",
+          "A happy family brings...",
+          "loving moment"
+        ],
+        "template": "At first, I felt lonely because I had no friends here. Then I decided to ______... Now I realize that...",
+        "sample": "At first, Emma felt a little lonely in the new school. But she didn't give up. She decided to start a writing club in the library, and soon she made three close friends who love fantasy stories."
+      },
+      "ladder_steps": [
+        "第一步·还原课文真实细节：回溯 Emma、李明与家庭瞬间的关键情节。",
+        "第二步·情感线索提炼：从孤独/迷茫到主动采取行动并收获成长。",
+        "第三步·仿写创编：运用课文原声短语完成第一人称或第三人称短篇创作。"
+      ]
     }
   },
   {
@@ -2552,6 +4208,29 @@
       "answer_index": 2,
       "painless_hint": "💡 提示：回顾课文中李明、Emma 或家庭瞬间的情感走向与时态线索。",
       "explanation": "主语 Tom 为第三人称单数，实义动词 studies 变否定需借助助动词 doesn't，且后面的实义动词必须还原为原形 study。故选 C。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma stopped write because she felt lonely and she had old classmates here.",
+        "diagnosis": "1. 停止做某事应为 stop writing (接动名词)；2. 课文原意是 Emma 刚转学到这里没有老同学，应为 she had no old classmates here。",
+        "cure_sentence": "Emma stopped writing because she felt a little lonely and she had no old classmates here."
+      },
+      "creation_task": {
+        "scene": "【课文续写与共情】：以 Emma 或李明的视角，写一段你在新学校通过主动交往收获新朋友的心理变化。",
+        "target_keywords": [
+          "Emma in the library",
+          "start a writing club",
+          "A happy family brings...",
+          "loving moment"
+        ],
+        "template": "At first, I felt lonely because I had no friends here. Then I decided to ______... Now I realize that...",
+        "sample": "At first, Emma felt a little lonely in the new school. But she didn't give up. She decided to start a writing club in the library, and soon she made three close friends who love fantasy stories."
+      },
+      "ladder_steps": [
+        "第一步·还原课文真实细节：回溯 Emma、李明与家庭瞬间的关键情节。",
+        "第二步·情感线索提炼：从孤独/迷茫到主动采取行动并收获成长。",
+        "第三步·仿写创编：运用课文原声短语完成第一人称或第三人称短篇创作。"
+      ]
     }
   },
   {
@@ -2587,6 +4266,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：回顾课文中李明、Emma 或家庭瞬间的情感走向与时态线索。",
       "explanation": "后接动词原形 join，Why not do sth?（为什么不……呢？）是标准提建议句型；What about / How about 后需接动名词 doing。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma stopped write because she felt lonely and she had old classmates here.",
+        "diagnosis": "1. 停止做某事应为 stop writing (接动名词)；2. 课文原意是 Emma 刚转学到这里没有老同学，应为 she had no old classmates here。",
+        "cure_sentence": "Emma stopped writing because she felt a little lonely and she had no old classmates here."
+      },
+      "creation_task": {
+        "scene": "【课文续写与共情】：以 Emma 或李明的视角，写一段你在新学校通过主动交往收获新朋友的心理变化。",
+        "target_keywords": [
+          "Emma in the library",
+          "start a writing club",
+          "A happy family brings...",
+          "loving moment"
+        ],
+        "template": "At first, I felt lonely because I had no friends here. Then I decided to ______... Now I realize that...",
+        "sample": "At first, Emma felt a little lonely in the new school. But she didn't give up. She decided to start a writing club in the library, and soon she made three close friends who love fantasy stories."
+      },
+      "ladder_steps": [
+        "第一步·还原课文真实细节：回溯 Emma、李明与家庭瞬间的关键情节。",
+        "第二步·情感线索提炼：从孤独/迷茫到主动采取行动并收获成长。",
+        "第三步·仿写创编：运用课文原声短语完成第一人称或第三人称短篇创作。"
+      ]
     }
   },
   {
@@ -2622,6 +4324,29 @@
       "answer_index": 0,
       "painless_hint": "💡 提示：回顾课文中李明、Emma 或家庭瞬间的情感走向与时态线索。",
       "explanation": "uniform 作校服/制服讲为可数名词，主语 Many students 对应复数形式 uniforms。故选 A。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma stopped write because she felt lonely and she had old classmates here.",
+        "diagnosis": "1. 停止做某事应为 stop writing (接动名词)；2. 课文原意是 Emma 刚转学到这里没有老同学，应为 she had no old classmates here。",
+        "cure_sentence": "Emma stopped writing because she felt a little lonely and she had no old classmates here."
+      },
+      "creation_task": {
+        "scene": "【课文续写与共情】：以 Emma 或李明的视角，写一段你在新学校通过主动交往收获新朋友的心理变化。",
+        "target_keywords": [
+          "Emma in the library",
+          "start a writing club",
+          "A happy family brings...",
+          "loving moment"
+        ],
+        "template": "At first, I felt lonely because I had no friends here. Then I decided to ______... Now I realize that...",
+        "sample": "At first, Emma felt a little lonely in the new school. But she didn't give up. She decided to start a writing club in the library, and soon she made three close friends who love fantasy stories."
+      },
+      "ladder_steps": [
+        "第一步·还原课文真实细节：回溯 Emma、李明与家庭瞬间的关键情节。",
+        "第二步·情感线索提炼：从孤独/迷茫到主动采取行动并收获成长。",
+        "第三步·仿写创编：运用课文原声短语完成第一人称或第三人称短篇创作。"
+      ]
     }
   },
   {
@@ -2657,6 +4382,29 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：回顾课文中李明、Emma 或家庭瞬间的情感走向与时态线索。",
       "explanation": "在几楼表面固定使用介词 on (on the first/second/third floor)。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma stopped write because she felt lonely and she had old classmates here.",
+        "diagnosis": "1. 停止做某事应为 stop writing (接动名词)；2. 课文原意是 Emma 刚转学到这里没有老同学，应为 she had no old classmates here。",
+        "cure_sentence": "Emma stopped writing because she felt a little lonely and she had no old classmates here."
+      },
+      "creation_task": {
+        "scene": "【课文续写与共情】：以 Emma 或李明的视角，写一段你在新学校通过主动交往收获新朋友的心理变化。",
+        "target_keywords": [
+          "Emma in the library",
+          "start a writing club",
+          "A happy family brings...",
+          "loving moment"
+        ],
+        "template": "At first, I felt lonely because I had no friends here. Then I decided to ______... Now I realize that...",
+        "sample": "At first, Emma felt a little lonely in the new school. But she didn't give up. She decided to start a writing club in the library, and soon she made three close friends who love fantasy stories."
+      },
+      "ladder_steps": [
+        "第一步·还原课文真实细节：回溯 Emma、李明与家庭瞬间的关键情节。",
+        "第二步·情感线索提炼：从孤独/迷茫到主动采取行动并收获成长。",
+        "第三步·仿写创编：运用课文原声短语完成第一人称或第三人称短篇创作。"
+      ]
     }
   }
 ]
