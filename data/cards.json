@@ -4060,6 +4060,818 @@
     }
   },
   {
+    "card_id": "card_chap_13_p01",
+    "topic_id": "chap_13_p01",
+    "type": "grammar_checkpoint",
+    "title": "一般过去时核心法则（be动词 was/were、不规则动词过去式与过去时间状语）",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 1 P2 · 试卷去手写 Unit 1 语法精讲",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "be 动词过去式两形式：主语是 I / he / she / it / 单数名词时用 was；主语是 you / we / they / 复数名词时用 were。 · 实义动词规则变化四部曲：一般加 -ed (worked)；以 e 结尾加 -d (lived)；辅音+y 变 i 加 -ed (studied)；重读闭音节双写尾字母加 -ed (stopped, planned)。",
+      "pitfall": "【高频陷阱】：在含有 did 或 didn't 的疑问句与否定句中，实义动词忘记变回原形！如误写成 *Did you went there?*（正确为 Did you go there?）。",
+      "citation": {
+        "source": "试卷去手写_20261111_102605.pdf P1 (Unit 1 语法精要)",
+        "text": "一般过去时 (Simple Past Tense) 用于描述过去某个时间里发生的动作或状态，以及过去习惯性、经常性的动作或行为。表达出生相关的信息：I was born in a small village. They were born in the same year. be 动词过去式：am/is -> was, are -> were。疑问句：Were you born in 2008?"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "— Where ______ you born, Tony? \n— I ______ born in Cambridge, England in 2009.",
+      "options": [
+        "A. were; was",
+        "B. was; were",
+        "C. are; am",
+        "D. was; was"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：主语 you 为第二人称，be 动词过去式用 were；答语主语 I 为第一人称单数，be 动词过去式用 was。故选 A。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p02",
+    "topic_id": "chap_13_p02",
+    "type": "grammar_checkpoint",
+    "title": "不定代词与复合不定代词综合辨析（some/any, both/neither, 复合词形容词后置）",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 2 P18 · 课堂学习笔记",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "形容词后置规则：修饰复合不定代词（-one, -body, -thing）的形容词必须放在其后，如 something important, nothing new。 · 单数一致原则：复合不定代词作主语，谓语动词一律用第三人称单数 (Everyone has a dream)。",
+      "pitfall": "【高频陷阱】：形容词位置放错，误说成 *important something*；或者作主语时谓语动词错用复数，如误写成 *Everyone are here*（正确为 Everyone is here）。",
+      "citation": {
+        "source": "课堂英语学习笔记七年级下册 (Unit 2 Grammar)",
+        "text": "Indefinite pronouns 不定代词：someone/anyone/nobody, something/anything/nothing。形容词修饰复合不定代词时必须后置：Is there anything interesting? There is nothing serious."
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "I have ______ to tell you, but please keep it a secret. Don't tell ______.",
+      "options": [
+        "A. something important; anybody",
+        "B. important something; somebody",
+        "C. anything important; nobody",
+        "D. something important; nobody"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：形容词修饰复合不定代词需后置，故排除 B；肯定句中用 something important；祈使否定句 Don't tell... 中用 anybody，构成“别告诉任何人”。故选 A。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p03",
+    "topic_id": "chap_13_p03",
+    "type": "grammar_checkpoint",
+    "title": "连系动词体系分类与表语结构（look/sound/smell/taste/feel 及 变化/保持动词）",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 3 P34 · Food matters 语法精析",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "结构公理：主语 + 系动词 + 形容词（表语）。系动词后严禁使用副词作表语！ · 感官系动词：look, sound, smell, taste, feel + adj. (It looks beautiful. That sounds great.)",
+      "pitfall": "【高频陷阱】：受汉语翻译“尝起来很美味地”影响，错选副词形式（如错选 *tastes deliciously*）；或者误用被动语态。",
+      "citation": {
+        "source": "课堂英语学习笔记七年级下册 (Unit 3 Grammar: Linking verbs)",
+        "text": "五大感官连系动词：look (看起来), sound (听起来), smell (闻起来), taste (尝起来), feel (摸起来/感觉)。后接形容词作表语，不能接副词！例如：The cake tastes delicious. (不能用 deliciously)。"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "The fresh apple pie on the kitchen table smells ______ and tastes even ______.",
+      "options": [
+        "A. nicely; well",
+        "B. good; better",
+        "C. well; good",
+        "D. nicely; better"
+      ],
+      "answer_index": 1,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：smell 与 taste 均为感官连系动词，后面必须接形容词作表语，故排除修饰副词 nicely；even 修饰形容词比较级，good 的比较级为 better。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p04",
+    "topic_id": "chap_13_p04",
+    "type": "grammar_checkpoint",
+    "title": "祈使句与倡议表达（Do/Don't/Let's 及 动名词作主语/宾语）",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 4 P50-P56 · The art of having fun 全解",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "祈使句肯定式：动词原形开头，省略主语 you (e.g., Turn off your phones and have fun.)。 · 祈使句否定式：Don't + 动词原形 (e.g., Don't stay up late gaming.)；公共标语 No + 动名词/名词 (No smoking! No parking!)。",
+      "pitfall": "【高频陷阱】：在祈使句中错用动名词开头（如将 *Listen to me!* 误写成 *Listening to me!*）；或者动名词短语作主语时谓语动词错用复数。",
+      "citation": {
+        "source": "试卷去手写_20261111_102121.pdf P56 (Unit 4 拓展思路与Useful expressions)",
+        "text": "Useful expressions: Fun can... / Having fun can reduce stress and anxiety. / Enjoying fun helps to build better relationships. / Remember that... / Don't forget to do sth. / Doing away with bad feelings (消除不良情绪) / Keeping us feeling youthful (让我们保持青春的感觉)。"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "______ up your spirit and face the challenge bravely. Success belongs to those who persevere.",
+      "options": [
+        "A. Lifting",
+        "B. Lift",
+        "C. To lift",
+        "D. Lifted"
+      ],
+      "answer_index": 1,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：本句无主语，向对方发出鼓励指令，属于肯定祈使句，必须用动词原形 Lift 开头。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p05",
+    "topic_id": "chap_13_p05",
+    "type": "grammar_checkpoint",
+    "title": "形容词与副词比较级与最高级进阶（规则/不规则变化与 the + 最高级 + of/in 范围）",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 5 P66-P72 · Amazing nature 语法精讲",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "比较级标志词 than：A + be/v. + 比较级 + than + B (Mount Qomolangma is higher than any other mountain). · 比较级前修饰语：可使用 much, a lot, even, far, a little, a bit 修饰比较级加强或减弱语气；绝对不可使用 very, quite, so 修饰比较级！",
+      "pitfall": "【高频陷阱】：用 very 修饰比较级！例如说 *very taller* 是严重语法错误，必须用 *much taller* 或 *a lot taller*；副词最高级前的 the 可以省略，但形容词最高级前的 the 严禁遗漏。",
+      "citation": {
+        "source": "课堂英语学习笔记七年级下册 (Unit 5 Grammar)",
+        "text": "Comparatives and superlatives 比较级和最高级：规则变化（单音节直接加 -er/-est，辅音+y变 i 加 -er/-est，多音节词加 more / most）；不规则变化：good/well -> better -> best, bad/badly -> worse -> worst, many/much -> more -> most, little -> less -> least, far -> farther/further -> farthest/furthest。"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "Among all the historical explorers, Xu Xiake is considered ______ traveller ______ Chinese history.",
+      "options": [
+        "A. the greatest; in",
+        "B. greater; than",
+        "C. greatest; of",
+        "D. the greatest; of"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：第一空表示“最伟大的”，形容词最高级前加 the；第二空在“中国历史”这一时空范围用介词 in。故选 A。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p06",
+    "topic_id": "chap_13_p06",
+    "type": "grammar_checkpoint",
+    "title": "同级比较句型 as...as 与否定形式 not as/so...as",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 6 P82 · Hitting the road 核心语法",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "肯定句型：主语 + 谓语 + as + 形容词/副词【原级】 + as + 比较对象 (A 与 B 一样...)。 · 否定句型：主语 + 谓语 + not as/so + 形容词/副词【原级】 + as + 比较对象 (A 不如 B... = B 比 A 更...)。",
+      "pitfall": "【高频陷阱】：在 as...as 中间错误使用比较级！例如误写成 *as better as* 或 *as taller as*，只要看到 as...as，中间有且仅有【原级】！",
+      "citation": {
+        "source": "试卷去手写_20261111_102605.pdf P11 (Unit 6 Language notes)",
+        "text": "原句 3: Surprisingly, I started to enjoy the taste. And cooking hot pot was just as fun as eating it! (做火锅和吃火锅一样有趣！)\n原句 6: People say I'm as great as Zhang Qian and Xuanzang. (人们说我和张骞、玄奘一样伟大)。"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "Cooking Sichuan hot pot with local friends is just as ______ as visiting the traditional museum.",
+      "options": [
+        "A. fun",
+        "B. more fun",
+        "C. most fun",
+        "D. funniest"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：as...as 之间必须使用形容词原级，fun 作形容词意为“有趣的”，原级为 fun。故选 A。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p07",
+    "topic_id": "chap_13_p07",
+    "type": "grammar_checkpoint",
+    "title": "七下高频动词短语与修辞手法国考考点 (can't wait to do, look forward to doing, 双关修辞)",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 6 P11 · 试卷去手写文化课文精析",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "can't wait to do sth：迫不及待做某事（后接不定式原形）。 · look forward to doing sth：期待做某事（to 为介词，接动名词 -ing）。",
+      "pitfall": "【高频陷阱】：在 look forward to 后面错接动词原形！例如误写成 *I look forward to hear from you*（致命错误，正确必须为 I look forward to hearing from you）。",
+      "citation": {
+        "source": "试卷去手写_20261111_102605.pdf P11 (Unit 6 Language notes 详细注释)",
+        "text": "1. I just couldn't wait to try Sichuan hot pot! (can't wait to do sth 迫不及待做某事)\n2. When in China, do as the Chinese do! (改编自谚语 When in Rome, do as the Romans do 入乡随俗)\n4. After lunch, things went from really hot to totally cool - we went to the new Sanxingdui Museum! (hot/cool 采用了双关修辞：hot 既指火锅麻辣，又指火锅店热火朝天；cool 既指博物馆空调凉爽，又指文物精美震撼很酷！)\n5. I'm really looking forward to the rest of my trip around China! (look forward to doing sth 期待做某事，to 为介词，后接动名词)\n8. From an early age, Xu dreamed of visiting China's seas and mountains. (dream of doing sth 梦想做某事)\n9. At 22, he set out on his life's journey. (set out on sth 开始某事/踏上旅程)。"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "All the students are looking forward to ______ the ancient bronze masks at the Sanxingdui Museum next Saturday.",
+      "options": [
+        "A. see",
+        "B. saw",
+        "C. seeing",
+        "D. seen"
+      ],
+      "answer_index": 2,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：look forward to doing sth 为固定短语，其中 to 为介词，后面必须接动名词形式 seeing。故选 C。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p65",
+    "topic_id": "chap_13_p65",
+    "type": "grammar_checkpoint",
+    "title": "一般过去时核心法则（be动词 was/were、不规则动词过去式与过去时间状语）",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 1 P2 · 试卷去手写 Unit 1 语法精讲",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "be 动词过去式两形式：主语是 I / he / she / it / 单数名词时用 was；主语是 you / we / they / 复数名词时用 were。 · 实义动词规则变化四部曲：一般加 -ed (worked)；以 e 结尾加 -d (lived)；辅音+y 变 i 加 -ed (studied)；重读闭音节双写尾字母加 -ed (stopped, planned)。",
+      "pitfall": "【高频陷阱】：在含有 did 或 didn't 的疑问句与否定句中，实义动词忘记变回原形！如误写成 *Did you went there?*（正确为 Did you go there?）。",
+      "citation": {
+        "source": "试卷去手写_20261111_102605.pdf P1 (Unit 1 语法精要)",
+        "text": "一般过去时 (Simple Past Tense) 用于描述过去某个时间里发生的动作或状态，以及过去习惯性、经常性的动作或行为。表达出生相关的信息：I was born in a small village. They were born in the same year. be 动词过去式：am/is -> was, are -> were。疑问句：Were you born in 2008?"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "— Where ______ you born, Tony? \n— I ______ born in Cambridge, England in 2009.",
+      "options": [
+        "A. were; was",
+        "B. was; were",
+        "C. are; am",
+        "D. was; was"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：主语 you 为第二人称，be 动词过去式用 were；答语主语 I 为第一人称单数，be 动词过去式用 was。故选 A。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p66",
+    "topic_id": "chap_13_p66",
+    "type": "grammar_checkpoint",
+    "title": "不定代词与复合不定代词综合辨析（some/any, both/neither, 复合词形容词后置）",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 2 P18 · 课堂学习笔记",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "形容词后置规则：修饰复合不定代词（-one, -body, -thing）的形容词必须放在其后，如 something important, nothing new。 · 单数一致原则：复合不定代词作主语，谓语动词一律用第三人称单数 (Everyone has a dream)。",
+      "pitfall": "【高频陷阱】：形容词位置放错，误说成 *important something*；或者作主语时谓语动词错用复数，如误写成 *Everyone are here*（正确为 Everyone is here）。",
+      "citation": {
+        "source": "课堂英语学习笔记七年级下册 (Unit 2 Grammar)",
+        "text": "Indefinite pronouns 不定代词：someone/anyone/nobody, something/anything/nothing。形容词修饰复合不定代词时必须后置：Is there anything interesting? There is nothing serious."
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "I have ______ to tell you, but please keep it a secret. Don't tell ______.",
+      "options": [
+        "A. something important; anybody",
+        "B. important something; somebody",
+        "C. anything important; nobody",
+        "D. something important; nobody"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：形容词修饰复合不定代词需后置，故排除 B；肯定句中用 something important；祈使否定句 Don't tell... 中用 anybody，构成“别告诉任何人”。故选 A。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p67",
+    "topic_id": "chap_13_p67",
+    "type": "grammar_checkpoint",
+    "title": "连系动词体系分类与表语结构（look/sound/smell/taste/feel 及 变化/保持动词）",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 3 P34 · Food matters 语法精析",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "结构公理：主语 + 系动词 + 形容词（表语）。系动词后严禁使用副词作表语！ · 感官系动词：look, sound, smell, taste, feel + adj. (It looks beautiful. That sounds great.)",
+      "pitfall": "【高频陷阱】：受汉语翻译“尝起来很美味地”影响，错选副词形式（如错选 *tastes deliciously*）；或者误用被动语态。",
+      "citation": {
+        "source": "课堂英语学习笔记七年级下册 (Unit 3 Grammar: Linking verbs)",
+        "text": "五大感官连系动词：look (看起来), sound (听起来), smell (闻起来), taste (尝起来), feel (摸起来/感觉)。后接形容词作表语，不能接副词！例如：The cake tastes delicious. (不能用 deliciously)。"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "The fresh apple pie on the kitchen table smells ______ and tastes even ______.",
+      "options": [
+        "A. nicely; well",
+        "B. good; better",
+        "C. well; good",
+        "D. nicely; better"
+      ],
+      "answer_index": 1,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：smell 与 taste 均为感官连系动词，后面必须接形容词作表语，故排除修饰副词 nicely；even 修饰形容词比较级，good 的比较级为 better。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p68",
+    "topic_id": "chap_13_p68",
+    "type": "grammar_checkpoint",
+    "title": "祈使句与倡议表达（Do/Don't/Let's 及 动名词作主语/宾语）",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 4 P50-P56 · The art of having fun 全解",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "祈使句肯定式：动词原形开头，省略主语 you (e.g., Turn off your phones and have fun.)。 · 祈使句否定式：Don't + 动词原形 (e.g., Don't stay up late gaming.)；公共标语 No + 动名词/名词 (No smoking! No parking!)。",
+      "pitfall": "【高频陷阱】：在祈使句中错用动名词开头（如将 *Listen to me!* 误写成 *Listening to me!*）；或者动名词短语作主语时谓语动词错用复数。",
+      "citation": {
+        "source": "试卷去手写_20261111_102121.pdf P56 (Unit 4 拓展思路与Useful expressions)",
+        "text": "Useful expressions: Fun can... / Having fun can reduce stress and anxiety. / Enjoying fun helps to build better relationships. / Remember that... / Don't forget to do sth. / Doing away with bad feelings (消除不良情绪) / Keeping us feeling youthful (让我们保持青春的感觉)。"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "______ up your spirit and face the challenge bravely. Success belongs to those who persevere.",
+      "options": [
+        "A. Lifting",
+        "B. Lift",
+        "C. To lift",
+        "D. Lifted"
+      ],
+      "answer_index": 1,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：本句无主语，向对方发出鼓励指令，属于肯定祈使句，必须用动词原形 Lift 开头。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p69",
+    "topic_id": "chap_13_p69",
+    "type": "grammar_checkpoint",
+    "title": "形容词与副词比较级与最高级进阶（规则/不规则变化与 the + 最高级 + of/in 范围）",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 5 P66-P72 · Amazing nature 语法精讲",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "比较级标志词 than：A + be/v. + 比较级 + than + B (Mount Qomolangma is higher than any other mountain). · 比较级前修饰语：可使用 much, a lot, even, far, a little, a bit 修饰比较级加强或减弱语气；绝对不可使用 very, quite, so 修饰比较级！",
+      "pitfall": "【高频陷阱】：用 very 修饰比较级！例如说 *very taller* 是严重语法错误，必须用 *much taller* 或 *a lot taller*；副词最高级前的 the 可以省略，但形容词最高级前的 the 严禁遗漏。",
+      "citation": {
+        "source": "课堂英语学习笔记七年级下册 (Unit 5 Grammar)",
+        "text": "Comparatives and superlatives 比较级和最高级：规则变化（单音节直接加 -er/-est，辅音+y变 i 加 -er/-est，多音节词加 more / most）；不规则变化：good/well -> better -> best, bad/badly -> worse -> worst, many/much -> more -> most, little -> less -> least, far -> farther/further -> farthest/furthest。"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "Among all the historical explorers, Xu Xiake is considered ______ traveller ______ Chinese history.",
+      "options": [
+        "A. the greatest; in",
+        "B. greater; than",
+        "C. greatest; of",
+        "D. the greatest; of"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：第一空表示“最伟大的”，形容词最高级前加 the；第二空在“中国历史”这一时空范围用介词 in。故选 A。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p70",
+    "topic_id": "chap_13_p70",
+    "type": "grammar_checkpoint",
+    "title": "同级比较句型 as...as 与否定形式 not as/so...as",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 6 P82 · Hitting the road 核心语法",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "肯定句型：主语 + 谓语 + as + 形容词/副词【原级】 + as + 比较对象 (A 与 B 一样...)。 · 否定句型：主语 + 谓语 + not as/so + 形容词/副词【原级】 + as + 比较对象 (A 不如 B... = B 比 A 更...)。",
+      "pitfall": "【高频陷阱】：在 as...as 中间错误使用比较级！例如误写成 *as better as* 或 *as taller as*，只要看到 as...as，中间有且仅有【原级】！",
+      "citation": {
+        "source": "试卷去手写_20261111_102605.pdf P11 (Unit 6 Language notes)",
+        "text": "原句 3: Surprisingly, I started to enjoy the taste. And cooking hot pot was just as fun as eating it! (做火锅和吃火锅一样有趣！)\n原句 6: People say I'm as great as Zhang Qian and Xuanzang. (人们说我和张骞、玄奘一样伟大)。"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "Cooking Sichuan hot pot with local friends is just as ______ as visiting the traditional museum.",
+      "options": [
+        "A. fun",
+        "B. more fun",
+        "C. most fun",
+        "D. funniest"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：as...as 之间必须使用形容词原级，fun 作形容词意为“有趣的”，原级为 fun。故选 A。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_chap_13_p71",
+    "topic_id": "chap_13_p71",
+    "type": "grammar_checkpoint",
+    "title": "七下高频动词短语与修辞手法国考考点 (can't wait to do, look forward to doing, 双关修辞)",
+    "category": "第13章 七下外研版 (WY) 单元语法与中考核心考点",
+    "page_ref": "七下外研版 Unit 6 P11 · 试卷去手写文化课文精析",
+    "level": "中考必考 · 无痛通关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 心智隐喻破壁",
+      "content": "名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 避坑雷达与口诀",
+      "formula": "can't wait to do sth：迫不及待做某事（后接不定式原形）。 · look forward to doing sth：期待做某事（to 为介词，接动名词 -ing）。",
+      "pitfall": "【高频陷阱】：在 look forward to 后面错接动词原形！例如误写成 *I look forward to hear from you*（致命错误，正确必须为 I look forward to hearing from you）。",
+      "citation": {
+        "source": "试卷去手写_20261111_102605.pdf P11 (Unit 6 Language notes 详细注释)",
+        "text": "1. I just couldn't wait to try Sichuan hot pot! (can't wait to do sth 迫不及待做某事)\n2. When in China, do as the Chinese do! (改编自谚语 When in Rome, do as the Romans do 入乡随俗)\n4. After lunch, things went from really hot to totally cool - we went to the new Sanxingdui Museum! (hot/cool 采用了双关修辞：hot 既指火锅麻辣，又指火锅店热火朝天；cool 既指博物馆空调凉爽，又指文物精美震撼很酷！)\n5. I'm really looking forward to the rest of my trip around China! (look forward to doing sth 期待做某事，to 为介词，后接动名词)\n8. From an early age, Xu dreamed of visiting China's seas and mountains. (dream of doing sth 梦想做某事)\n9. At 22, he set out on his life's journey. (set out on sth 开始某事/踏上旅程)。"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "All the students are looking forward to ______ the ancient bronze masks at the Sanxingdui Museum next Saturday.",
+      "options": [
+        "A. see",
+        "B. saw",
+        "C. seeing",
+        "D. seen"
+      ],
+      "answer_index": 2,
+      "painless_hint": "💡 提示：先抓句子主干成分，注意时间状语与主谓一致，排除倒装与时态干扰项。",
+      "explanation": "解析：look forward to doing sth 为固定短语，其中 to 为介词，后面必须接动名词形式 seeing。故选 C。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "There are three woman doctors in our hospital and they gave me many valuable advices.",
+        "diagnosis": "1. woman doctor 属于两截均为词根的职业复合名词，变复数必须前后皆变 (women doctors)；2. advice 为绝对不可数名词，不能用 many 修饰，也不能加 -s，需改为 some good advice 或 pieces of advice。",
+        "cure_sentence": "There are three women teachers in our school and they gave me some valuable advice."
+      },
+      "creation_task": {
+        "scene": "【开学新生介绍】：你正在向新同桌介绍你的各科老师以及初中新书包里的文具用品。",
+        "target_keywords": [
+          "women teachers",
+          "advice",
+          "pencil boxes",
+          "erasers"
+        ],
+        "template": "In my new school, there are many ______ (women teachers) who give us helpful ______ (advice)...",
+        "sample": "In our new school, there are forty women teachers. My English teacher gave me a piece of useful advice: read aloud every morning!"
+      },
+      "ladder_steps": [
+        "第一步·辨识单复数：圈出句中所有名词，判断可数还是不可数。",
+        "第二步·语法自检：检查特殊复数 (men/women, sheep/deer) 是否变形到位，不可数名词前有无误加 a/an/many。",
+        "第三步·语篇创编：将词汇嵌入整句，表达通顺完整的情感。"
+      ]
+    }
+  },
+  {
     "card_id": "card_mat_01",
     "topic_id": "mat_01",
     "type": "textbook_checkpoint",
@@ -4382,6 +5194,180 @@
       "answer_index": 1,
       "painless_hint": "💡 提示：回顾课文中李明、Emma 或家庭瞬间的情感走向与时态线索。",
       "explanation": "在几楼表面固定使用介词 on (on the first/second/third floor)。故选 B。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma stopped write because she felt lonely and she had old classmates here.",
+        "diagnosis": "1. 停止做某事应为 stop writing (接动名词)；2. 课文原意是 Emma 刚转学到这里没有老同学，应为 she had no old classmates here。",
+        "cure_sentence": "Emma stopped writing because she felt a little lonely and she had no old classmates here."
+      },
+      "creation_task": {
+        "scene": "【课文续写与共情】：以 Emma 或李明的视角，写一段你在新学校通过主动交往收获新朋友的心理变化。",
+        "target_keywords": [
+          "Emma in the library",
+          "start a writing club",
+          "A happy family brings...",
+          "loving moment"
+        ],
+        "template": "At first, I felt lonely because I had no friends here. Then I decided to ______... Now I realize that...",
+        "sample": "At first, Emma felt a little lonely in the new school. But she didn't give up. She decided to start a writing club in the library, and soon she made three close friends who love fantasy stories."
+      },
+      "ladder_steps": [
+        "第一步·还原课文真实细节：回溯 Emma、李明与家庭瞬间的关键情节。",
+        "第二步·情感线索提炼：从孤独/迷茫到主动采取行动并收获成长。",
+        "第三步·仿写创编：运用课文原声短语完成第一人称或第三人称短篇创作。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_mat_07",
+    "topic_id": "mat_07",
+    "type": "textbook_checkpoint",
+    "title": "七下 Unit 6 Hitting the road 核心语言点与文化阅读（去手写清爽版）",
+    "category": "教材精读 · 外研七上",
+    "page_ref": "试卷去手写_20261111_102605.pdf",
+    "level": "课本同步 · 语境闯关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 真实语境浸润",
+      "content": "提炼四川火锅与三星堆双关修辞（from hot to totally cool）、中国俗语（When in China, do as the Chinese do）、千古奇人徐霞客探险记与张骞、玄奘历史文化名篇。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 课文原声精读",
+      "formula": "🎯 语法要点：as...as 同级比较 · look forward to doing · can't wait to do · 双关修辞 (Pun)",
+      "pitfall": "【精读避坑】：关注真实对话中的习惯搭配与代词指代，避免望文生义。",
+      "citation": {
+        "source": "Unit 6 Language notes 原文",
+        "text": "Surprisingly, I started to enjoy the taste. And cooking hot pot was just as fun as eating it!"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "精读《七下 Unit 6 Hitting the road 核心语言点与文化阅读（去手写清爽版）》，下列关于课文主旨与核心句型的理解完全正确的是：",
+      "options": [
+        "A. 正确理解课文语境与核心语法",
+        "B. 机械死记单词",
+        "C. 脱离上下文",
+        "D. 忽略情感主题"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：回顾课文中李明、Emma 或家庭瞬间的情感走向与时态线索。",
+      "explanation": "结合课文真实语篇与主旨思想进行综合推断。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma stopped write because she felt lonely and she had old classmates here.",
+        "diagnosis": "1. 停止做某事应为 stop writing (接动名词)；2. 课文原意是 Emma 刚转学到这里没有老同学，应为 she had no old classmates here。",
+        "cure_sentence": "Emma stopped writing because she felt a little lonely and she had no old classmates here."
+      },
+      "creation_task": {
+        "scene": "【课文续写与共情】：以 Emma 或李明的视角，写一段你在新学校通过主动交往收获新朋友的心理变化。",
+        "target_keywords": [
+          "Emma in the library",
+          "start a writing club",
+          "A happy family brings...",
+          "loving moment"
+        ],
+        "template": "At first, I felt lonely because I had no friends here. Then I decided to ______... Now I realize that...",
+        "sample": "At first, Emma felt a little lonely in the new school. But she didn't give up. She decided to start a writing club in the library, and soon she made three close friends who love fantasy stories."
+      },
+      "ladder_steps": [
+        "第一步·还原课文真实细节：回溯 Emma、李明与家庭瞬间的关键情节。",
+        "第二步·情感线索提炼：从孤独/迷茫到主动采取行动并收获成长。",
+        "第三步·仿写创编：运用课文原声短语完成第一人称或第三人称短篇创作。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_mat_08",
+    "topic_id": "mat_08",
+    "type": "textbook_checkpoint",
+    "title": "七下 Unit 4 The art of having fun 教材全解（去手写版）",
+    "category": "教材精读 · 外研七上",
+    "page_ref": "试卷去手写_20261111_102121.pdf",
+    "level": "课本同步 · 语境闯关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 真实语境浸润",
+      "content": "包含成都华希昆虫博物馆巨蚊探秘与吉尼斯世界纪录、谚语 All work and no play makes Jack a dull boy、娱乐与减压心理机制（Doing away with bad feelings）。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 课文原声精读",
+      "formula": "🎯 语法要点：祈使句倡议 (Do/Don't) · 动名词作主语 · keep sb. doing · discover doing",
+      "pitfall": "【精读避坑】：关注真实对话中的习惯搭配与代词指代，避免望文生义。",
+      "citation": {
+        "source": "Unit 4 课本核心观点",
+        "text": "Having fun can reduce stress and anxiety. Enjoying fun helps to build better relationships with others."
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "精读《七下 Unit 4 The art of having fun 教材全解（去手写版）》，下列关于课文主旨与核心句型的理解完全正确的是：",
+      "options": [
+        "A. 正确理解课文语境与核心语法",
+        "B. 机械死记单词",
+        "C. 脱离上下文",
+        "D. 忽略情感主题"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：回顾课文中李明、Emma 或家庭瞬间的情感走向与时态线索。",
+      "explanation": "结合课文真实语篇与主旨思想进行综合推断。"
+    },
+    "creation_studio": {
+      "clinic": {
+        "error_sentence": "Emma stopped write because she felt lonely and she had old classmates here.",
+        "diagnosis": "1. 停止做某事应为 stop writing (接动名词)；2. 课文原意是 Emma 刚转学到这里没有老同学，应为 she had no old classmates here。",
+        "cure_sentence": "Emma stopped writing because she felt a little lonely and she had no old classmates here."
+      },
+      "creation_task": {
+        "scene": "【课文续写与共情】：以 Emma 或李明的视角，写一段你在新学校通过主动交往收获新朋友的心理变化。",
+        "target_keywords": [
+          "Emma in the library",
+          "start a writing club",
+          "A happy family brings...",
+          "loving moment"
+        ],
+        "template": "At first, I felt lonely because I had no friends here. Then I decided to ______... Now I realize that...",
+        "sample": "At first, Emma felt a little lonely in the new school. But she didn't give up. She decided to start a writing club in the library, and soon she made three close friends who love fantasy stories."
+      },
+      "ladder_steps": [
+        "第一步·还原课文真实细节：回溯 Emma、李明与家庭瞬间的关键情节。",
+        "第二步·情感线索提炼：从孤独/迷茫到主动采取行动并收获成长。",
+        "第三步·仿写创编：运用课文原声短语完成第一人称或第三人称短篇创作。"
+      ]
+    }
+  },
+  {
+    "card_id": "card_mat_09",
+    "topic_id": "mat_09",
+    "type": "textbook_checkpoint",
+    "title": "课堂英语学习笔记七年级下册（外研版精编）",
+    "category": "教材精读 · 外研七上",
+    "page_ref": "试卷去手写_20261111_101615.pdf",
+    "level": "课本同步 · 语境闯关",
+    "stage_1_metaphor": {
+      "name": "关卡 1 · 真实语境浸润",
+      "content": "李兆海主编。系统涵盖七下 6 大单元完整课程大纲、一般过去时、不定代词、连系动词、祈使句、比较级与最高级、同级比较专项速记与中考易错通解。"
+    },
+    "stage_2_radar": {
+      "name": "关卡 2 · 课文原声精读",
+      "formula": "🎯 语法要点：一般过去时 was/were · 不定代词修饰词后置 · 连系动词表语 · 形容词/副词比较级最高级",
+      "pitfall": "【精读避坑】：关注真实对话中的习惯搭配与代词指代，避免望文生义。",
+      "citation": {
+        "source": "Unit 1 语法精讲",
+        "text": "一般过去时描述过去动作或状态：I was born in a small village. Were you born in 2008?"
+      }
+    },
+    "stage_3_challenge": {
+      "name": "关卡 3 · 登顶闯关实战",
+      "question": "精读《课堂英语学习笔记七年级下册（外研版精编）》，下列关于课文主旨与核心句型的理解完全正确的是：",
+      "options": [
+        "A. 正确理解课文语境与核心语法",
+        "B. 机械死记单词",
+        "C. 脱离上下文",
+        "D. 忽略情感主题"
+      ],
+      "answer_index": 0,
+      "painless_hint": "💡 提示：回顾课文中李明、Emma 或家庭瞬间的情感走向与时态线索。",
+      "explanation": "结合课文真实语篇与主旨思想进行综合推断。"
     },
     "creation_studio": {
       "clinic": {

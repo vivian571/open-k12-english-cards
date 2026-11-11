@@ -1547,7 +1547,329 @@
 
 ---
 
-## Card #71 | 【教材精读 · 外研版（WY）七年级上册 Starter】01. 学生日常活动安排与开学准备
+## Card #71 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】一般过去时核心法则（be动词 was/were、不规则动词过去式与过去时间状语）
+- **考点标识**：`chap_13_p01` | **定位出处**：七下外研版 Unit 1 P2 · 试卷去手写 Unit 1 语法精讲
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：be 动词过去式两形式：主语是 I / he / she / it / 单数名词时用 was；主语是 you / we / they / 复数名词时用 were。 · 实义动词规则变化四部曲：一般加 -ed (worked)；以 e 结尾加 -d (lived)；辅音+y 变 i 加 -ed (studied)；重读闭音节双写尾字母加 -ed (stopped, planned)。
+- **避坑警示**：`【高频陷阱】：在含有 did 或 didn't 的疑问句与否定句中，实义动词忘记变回原形！如误写成 *Did you went there?*（正确为 Did you go there?）。`
+- **原句出处**：*试卷去手写_20261111_102605.pdf P1 (Unit 1 语法精要)* —— *“一般过去时 (Simple Past Tense) 用于描述过去某个时间里发生的动作或状态，以及过去习惯性、经常性的动作或行为。表达出生相关的信息：I was born in a small village. They were born in the same year. be 动词过去式：am/is -> was, are -> were。疑问句：Were you born in 2008?”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：— Where ______ you born, Tony? 
+— I ______ born in Cambridge, England in 2009.
+- A. were; was
+- B. was; were
+- C. are; am
+- D. was; was
+
+> **正确答案**：A. were; was
+> **答案解析**：解析：主语 you 为第二人称，be 动词过去式用 were；答语主语 I 为第一人称单数，be 动词过去式用 was。故选 A。
+
+---
+
+## Card #72 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】不定代词与复合不定代词综合辨析（some/any, both/neither, 复合词形容词后置）
+- **考点标识**：`chap_13_p02` | **定位出处**：七下外研版 Unit 2 P18 · 课堂学习笔记
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：形容词后置规则：修饰复合不定代词（-one, -body, -thing）的形容词必须放在其后，如 something important, nothing new。 · 单数一致原则：复合不定代词作主语，谓语动词一律用第三人称单数 (Everyone has a dream)。
+- **避坑警示**：`【高频陷阱】：形容词位置放错，误说成 *important something*；或者作主语时谓语动词错用复数，如误写成 *Everyone are here*（正确为 Everyone is here）。`
+- **原句出处**：*课堂英语学习笔记七年级下册 (Unit 2 Grammar)* —— *“Indefinite pronouns 不定代词：someone/anyone/nobody, something/anything/nothing。形容词修饰复合不定代词时必须后置：Is there anything interesting? There is nothing serious.”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：I have ______ to tell you, but please keep it a secret. Don't tell ______.
+- A. something important; anybody
+- B. important something; somebody
+- C. anything important; nobody
+- D. something important; nobody
+
+> **正确答案**：A. something important; anybody
+> **答案解析**：解析：形容词修饰复合不定代词需后置，故排除 B；肯定句中用 something important；祈使否定句 Don't tell... 中用 anybody，构成“别告诉任何人”。故选 A。
+
+---
+
+## Card #73 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】连系动词体系分类与表语结构（look/sound/smell/taste/feel 及 变化/保持动词）
+- **考点标识**：`chap_13_p03` | **定位出处**：七下外研版 Unit 3 P34 · Food matters 语法精析
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：结构公理：主语 + 系动词 + 形容词（表语）。系动词后严禁使用副词作表语！ · 感官系动词：look, sound, smell, taste, feel + adj. (It looks beautiful. That sounds great.)
+- **避坑警示**：`【高频陷阱】：受汉语翻译“尝起来很美味地”影响，错选副词形式（如错选 *tastes deliciously*）；或者误用被动语态。`
+- **原句出处**：*课堂英语学习笔记七年级下册 (Unit 3 Grammar: Linking verbs)* —— *“五大感官连系动词：look (看起来), sound (听起来), smell (闻起来), taste (尝起来), feel (摸起来/感觉)。后接形容词作表语，不能接副词！例如：The cake tastes delicious. (不能用 deliciously)。”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：The fresh apple pie on the kitchen table smells ______ and tastes even ______.
+- A. nicely; well
+- B. good; better
+- C. well; good
+- D. nicely; better
+
+> **正确答案**：B. good; better
+> **答案解析**：解析：smell 与 taste 均为感官连系动词，后面必须接形容词作表语，故排除修饰副词 nicely；even 修饰形容词比较级，good 的比较级为 better。故选 B。
+
+---
+
+## Card #74 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】祈使句与倡议表达（Do/Don't/Let's 及 动名词作主语/宾语）
+- **考点标识**：`chap_13_p04` | **定位出处**：七下外研版 Unit 4 P50-P56 · The art of having fun 全解
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：祈使句肯定式：动词原形开头，省略主语 you (e.g., Turn off your phones and have fun.)。 · 祈使句否定式：Don't + 动词原形 (e.g., Don't stay up late gaming.)；公共标语 No + 动名词/名词 (No smoking! No parking!)。
+- **避坑警示**：`【高频陷阱】：在祈使句中错用动名词开头（如将 *Listen to me!* 误写成 *Listening to me!*）；或者动名词短语作主语时谓语动词错用复数。`
+- **原句出处**：*试卷去手写_20261111_102121.pdf P56 (Unit 4 拓展思路与Useful expressions)* —— *“Useful expressions: Fun can... / Having fun can reduce stress and anxiety. / Enjoying fun helps to build better relationships. / Remember that... / Don't forget to do sth. / Doing away with bad feelings (消除不良情绪) / Keeping us feeling youthful (让我们保持青春的感觉)。”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：______ up your spirit and face the challenge bravely. Success belongs to those who persevere.
+- A. Lifting
+- B. Lift
+- C. To lift
+- D. Lifted
+
+> **正确答案**：B. Lift
+> **答案解析**：解析：本句无主语，向对方发出鼓励指令，属于肯定祈使句，必须用动词原形 Lift 开头。故选 B。
+
+---
+
+## Card #75 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】形容词与副词比较级与最高级进阶（规则/不规则变化与 the + 最高级 + of/in 范围）
+- **考点标识**：`chap_13_p05` | **定位出处**：七下外研版 Unit 5 P66-P72 · Amazing nature 语法精讲
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：比较级标志词 than：A + be/v. + 比较级 + than + B (Mount Qomolangma is higher than any other mountain). · 比较级前修饰语：可使用 much, a lot, even, far, a little, a bit 修饰比较级加强或减弱语气；绝对不可使用 very, quite, so 修饰比较级！
+- **避坑警示**：`【高频陷阱】：用 very 修饰比较级！例如说 *very taller* 是严重语法错误，必须用 *much taller* 或 *a lot taller*；副词最高级前的 the 可以省略，但形容词最高级前的 the 严禁遗漏。`
+- **原句出处**：*课堂英语学习笔记七年级下册 (Unit 5 Grammar)* —— *“Comparatives and superlatives 比较级和最高级：规则变化（单音节直接加 -er/-est，辅音+y变 i 加 -er/-est，多音节词加 more / most）；不规则变化：good/well -> better -> best, bad/badly -> worse -> worst, many/much -> more -> most, little -> less -> least, far -> farther/further -> farthest/furthest。”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：Among all the historical explorers, Xu Xiake is considered ______ traveller ______ Chinese history.
+- A. the greatest; in
+- B. greater; than
+- C. greatest; of
+- D. the greatest; of
+
+> **正确答案**：A. the greatest; in
+> **答案解析**：解析：第一空表示“最伟大的”，形容词最高级前加 the；第二空在“中国历史”这一时空范围用介词 in。故选 A。
+
+---
+
+## Card #76 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】同级比较句型 as...as 与否定形式 not as/so...as
+- **考点标识**：`chap_13_p06` | **定位出处**：七下外研版 Unit 6 P82 · Hitting the road 核心语法
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：肯定句型：主语 + 谓语 + as + 形容词/副词【原级】 + as + 比较对象 (A 与 B 一样...)。 · 否定句型：主语 + 谓语 + not as/so + 形容词/副词【原级】 + as + 比较对象 (A 不如 B... = B 比 A 更...)。
+- **避坑警示**：`【高频陷阱】：在 as...as 中间错误使用比较级！例如误写成 *as better as* 或 *as taller as*，只要看到 as...as，中间有且仅有【原级】！`
+- **原句出处**：*试卷去手写_20261111_102605.pdf P11 (Unit 6 Language notes)* —— *“原句 3: Surprisingly, I started to enjoy the taste. And cooking hot pot was just as fun as eating it! (做火锅和吃火锅一样有趣！)
+原句 6: People say I'm as great as Zhang Qian and Xuanzang. (人们说我和张骞、玄奘一样伟大)。”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：Cooking Sichuan hot pot with local friends is just as ______ as visiting the traditional museum.
+- A. fun
+- B. more fun
+- C. most fun
+- D. funniest
+
+> **正确答案**：A. fun
+> **答案解析**：解析：as...as 之间必须使用形容词原级，fun 作形容词意为“有趣的”，原级为 fun。故选 A。
+
+---
+
+## Card #77 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】七下高频动词短语与修辞手法国考考点 (can't wait to do, look forward to doing, 双关修辞)
+- **考点标识**：`chap_13_p07` | **定位出处**：七下外研版 Unit 6 P11 · 试卷去手写文化课文精析
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：can't wait to do sth：迫不及待做某事（后接不定式原形）。 · look forward to doing sth：期待做某事（to 为介词，接动名词 -ing）。
+- **避坑警示**：`【高频陷阱】：在 look forward to 后面错接动词原形！例如误写成 *I look forward to hear from you*（致命错误，正确必须为 I look forward to hearing from you）。`
+- **原句出处**：*试卷去手写_20261111_102605.pdf P11 (Unit 6 Language notes 详细注释)* —— *“1. I just couldn't wait to try Sichuan hot pot! (can't wait to do sth 迫不及待做某事)
+2. When in China, do as the Chinese do! (改编自谚语 When in Rome, do as the Romans do 入乡随俗)
+4. After lunch, things went from really hot to totally cool - we went to the new Sanxingdui Museum! (hot/cool 采用了双关修辞：hot 既指火锅麻辣，又指火锅店热火朝天；cool 既指博物馆空调凉爽，又指文物精美震撼很酷！)
+5. I'm really looking forward to the rest of my trip around China! (look forward to doing sth 期待做某事，to 为介词，后接动名词)
+8. From an early age, Xu dreamed of visiting China's seas and mountains. (dream of doing sth 梦想做某事)
+9. At 22, he set out on his life's journey. (set out on sth 开始某事/踏上旅程)。”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：All the students are looking forward to ______ the ancient bronze masks at the Sanxingdui Museum next Saturday.
+- A. see
+- B. saw
+- C. seeing
+- D. seen
+
+> **正确答案**：C. seeing
+> **答案解析**：解析：look forward to doing sth 为固定短语，其中 to 为介词，后面必须接动名词形式 seeing。故选 C。
+
+---
+
+## Card #78 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】一般过去时核心法则（be动词 was/were、不规则动词过去式与过去时间状语）
+- **考点标识**：`chap_13_p65` | **定位出处**：七下外研版 Unit 1 P2 · 试卷去手写 Unit 1 语法精讲
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：be 动词过去式两形式：主语是 I / he / she / it / 单数名词时用 was；主语是 you / we / they / 复数名词时用 were。 · 实义动词规则变化四部曲：一般加 -ed (worked)；以 e 结尾加 -d (lived)；辅音+y 变 i 加 -ed (studied)；重读闭音节双写尾字母加 -ed (stopped, planned)。
+- **避坑警示**：`【高频陷阱】：在含有 did 或 didn't 的疑问句与否定句中，实义动词忘记变回原形！如误写成 *Did you went there?*（正确为 Did you go there?）。`
+- **原句出处**：*试卷去手写_20261111_102605.pdf P1 (Unit 1 语法精要)* —— *“一般过去时 (Simple Past Tense) 用于描述过去某个时间里发生的动作或状态，以及过去习惯性、经常性的动作或行为。表达出生相关的信息：I was born in a small village. They were born in the same year. be 动词过去式：am/is -> was, are -> were。疑问句：Were you born in 2008?”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：— Where ______ you born, Tony? 
+— I ______ born in Cambridge, England in 2009.
+- A. were; was
+- B. was; were
+- C. are; am
+- D. was; was
+
+> **正确答案**：A. were; was
+> **答案解析**：解析：主语 you 为第二人称，be 动词过去式用 were；答语主语 I 为第一人称单数，be 动词过去式用 was。故选 A。
+
+---
+
+## Card #79 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】不定代词与复合不定代词综合辨析（some/any, both/neither, 复合词形容词后置）
+- **考点标识**：`chap_13_p66` | **定位出处**：七下外研版 Unit 2 P18 · 课堂学习笔记
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：形容词后置规则：修饰复合不定代词（-one, -body, -thing）的形容词必须放在其后，如 something important, nothing new。 · 单数一致原则：复合不定代词作主语，谓语动词一律用第三人称单数 (Everyone has a dream)。
+- **避坑警示**：`【高频陷阱】：形容词位置放错，误说成 *important something*；或者作主语时谓语动词错用复数，如误写成 *Everyone are here*（正确为 Everyone is here）。`
+- **原句出处**：*课堂英语学习笔记七年级下册 (Unit 2 Grammar)* —— *“Indefinite pronouns 不定代词：someone/anyone/nobody, something/anything/nothing。形容词修饰复合不定代词时必须后置：Is there anything interesting? There is nothing serious.”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：I have ______ to tell you, but please keep it a secret. Don't tell ______.
+- A. something important; anybody
+- B. important something; somebody
+- C. anything important; nobody
+- D. something important; nobody
+
+> **正确答案**：A. something important; anybody
+> **答案解析**：解析：形容词修饰复合不定代词需后置，故排除 B；肯定句中用 something important；祈使否定句 Don't tell... 中用 anybody，构成“别告诉任何人”。故选 A。
+
+---
+
+## Card #80 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】连系动词体系分类与表语结构（look/sound/smell/taste/feel 及 变化/保持动词）
+- **考点标识**：`chap_13_p67` | **定位出处**：七下外研版 Unit 3 P34 · Food matters 语法精析
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：结构公理：主语 + 系动词 + 形容词（表语）。系动词后严禁使用副词作表语！ · 感官系动词：look, sound, smell, taste, feel + adj. (It looks beautiful. That sounds great.)
+- **避坑警示**：`【高频陷阱】：受汉语翻译“尝起来很美味地”影响，错选副词形式（如错选 *tastes deliciously*）；或者误用被动语态。`
+- **原句出处**：*课堂英语学习笔记七年级下册 (Unit 3 Grammar: Linking verbs)* —— *“五大感官连系动词：look (看起来), sound (听起来), smell (闻起来), taste (尝起来), feel (摸起来/感觉)。后接形容词作表语，不能接副词！例如：The cake tastes delicious. (不能用 deliciously)。”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：The fresh apple pie on the kitchen table smells ______ and tastes even ______.
+- A. nicely; well
+- B. good; better
+- C. well; good
+- D. nicely; better
+
+> **正确答案**：B. good; better
+> **答案解析**：解析：smell 与 taste 均为感官连系动词，后面必须接形容词作表语，故排除修饰副词 nicely；even 修饰形容词比较级，good 的比较级为 better。故选 B。
+
+---
+
+## Card #81 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】祈使句与倡议表达（Do/Don't/Let's 及 动名词作主语/宾语）
+- **考点标识**：`chap_13_p68` | **定位出处**：七下外研版 Unit 4 P50-P56 · The art of having fun 全解
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：祈使句肯定式：动词原形开头，省略主语 you (e.g., Turn off your phones and have fun.)。 · 祈使句否定式：Don't + 动词原形 (e.g., Don't stay up late gaming.)；公共标语 No + 动名词/名词 (No smoking! No parking!)。
+- **避坑警示**：`【高频陷阱】：在祈使句中错用动名词开头（如将 *Listen to me!* 误写成 *Listening to me!*）；或者动名词短语作主语时谓语动词错用复数。`
+- **原句出处**：*试卷去手写_20261111_102121.pdf P56 (Unit 4 拓展思路与Useful expressions)* —— *“Useful expressions: Fun can... / Having fun can reduce stress and anxiety. / Enjoying fun helps to build better relationships. / Remember that... / Don't forget to do sth. / Doing away with bad feelings (消除不良情绪) / Keeping us feeling youthful (让我们保持青春的感觉)。”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：______ up your spirit and face the challenge bravely. Success belongs to those who persevere.
+- A. Lifting
+- B. Lift
+- C. To lift
+- D. Lifted
+
+> **正确答案**：B. Lift
+> **答案解析**：解析：本句无主语，向对方发出鼓励指令，属于肯定祈使句，必须用动词原形 Lift 开头。故选 B。
+
+---
+
+## Card #82 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】形容词与副词比较级与最高级进阶（规则/不规则变化与 the + 最高级 + of/in 范围）
+- **考点标识**：`chap_13_p69` | **定位出处**：七下外研版 Unit 5 P66-P72 · Amazing nature 语法精讲
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：比较级标志词 than：A + be/v. + 比较级 + than + B (Mount Qomolangma is higher than any other mountain). · 比较级前修饰语：可使用 much, a lot, even, far, a little, a bit 修饰比较级加强或减弱语气；绝对不可使用 very, quite, so 修饰比较级！
+- **避坑警示**：`【高频陷阱】：用 very 修饰比较级！例如说 *very taller* 是严重语法错误，必须用 *much taller* 或 *a lot taller*；副词最高级前的 the 可以省略，但形容词最高级前的 the 严禁遗漏。`
+- **原句出处**：*课堂英语学习笔记七年级下册 (Unit 5 Grammar)* —— *“Comparatives and superlatives 比较级和最高级：规则变化（单音节直接加 -er/-est，辅音+y变 i 加 -er/-est，多音节词加 more / most）；不规则变化：good/well -> better -> best, bad/badly -> worse -> worst, many/much -> more -> most, little -> less -> least, far -> farther/further -> farthest/furthest。”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：Among all the historical explorers, Xu Xiake is considered ______ traveller ______ Chinese history.
+- A. the greatest; in
+- B. greater; than
+- C. greatest; of
+- D. the greatest; of
+
+> **正确答案**：A. the greatest; in
+> **答案解析**：解析：第一空表示“最伟大的”，形容词最高级前加 the；第二空在“中国历史”这一时空范围用介词 in。故选 A。
+
+---
+
+## Card #83 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】同级比较句型 as...as 与否定形式 not as/so...as
+- **考点标识**：`chap_13_p70` | **定位出处**：七下外研版 Unit 6 P82 · Hitting the road 核心语法
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：肯定句型：主语 + 谓语 + as + 形容词/副词【原级】 + as + 比较对象 (A 与 B 一样...)。 · 否定句型：主语 + 谓语 + not as/so + 形容词/副词【原级】 + as + 比较对象 (A 不如 B... = B 比 A 更...)。
+- **避坑警示**：`【高频陷阱】：在 as...as 中间错误使用比较级！例如误写成 *as better as* 或 *as taller as*，只要看到 as...as，中间有且仅有【原级】！`
+- **原句出处**：*试卷去手写_20261111_102605.pdf P11 (Unit 6 Language notes)* —— *“原句 3: Surprisingly, I started to enjoy the taste. And cooking hot pot was just as fun as eating it! (做火锅和吃火锅一样有趣！)
+原句 6: People say I'm as great as Zhang Qian and Xuanzang. (人们说我和张骞、玄奘一样伟大)。”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：Cooking Sichuan hot pot with local friends is just as ______ as visiting the traditional museum.
+- A. fun
+- B. more fun
+- C. most fun
+- D. funniest
+
+> **正确答案**：A. fun
+> **答案解析**：解析：as...as 之间必须使用形容词原级，fun 作形容词意为“有趣的”，原级为 fun。故选 A。
+
+---
+
+## Card #84 | 【第13章 七下外研版 (WY) 单元语法与中考核心考点】七下高频动词短语与修辞手法国考考点 (can't wait to do, look forward to doing, 双关修辞)
+- **考点标识**：`chap_13_p71` | **定位出处**：七下外研版 Unit 6 P11 · 试卷去手写文化课文精析
+### 🌊 关卡 1 · 心智隐喻破壁
+> 名词就像‘乐高积木’：可数名词是独立散装积木，加一个就多一块 (-s/-es)；不可数名词是‘面粉和水’，流体抓不住，必须装进特定的碗或杯子里（数词+计量词+of）才能称重计量。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：can't wait to do sth：迫不及待做某事（后接不定式原形）。 · look forward to doing sth：期待做某事（to 为介词，接动名词 -ing）。
+- **避坑警示**：`【高频陷阱】：在 look forward to 后面错接动词原形！例如误写成 *I look forward to hear from you*（致命错误，正确必须为 I look forward to hearing from you）。`
+- **原句出处**：*试卷去手写_20261111_102605.pdf P11 (Unit 6 Language notes 详细注释)* —— *“1. I just couldn't wait to try Sichuan hot pot! (can't wait to do sth 迫不及待做某事)
+2. When in China, do as the Chinese do! (改编自谚语 When in Rome, do as the Romans do 入乡随俗)
+4. After lunch, things went from really hot to totally cool - we went to the new Sanxingdui Museum! (hot/cool 采用了双关修辞：hot 既指火锅麻辣，又指火锅店热火朝天；cool 既指博物馆空调凉爽，又指文物精美震撼很酷！)
+5. I'm really looking forward to the rest of my trip around China! (look forward to doing sth 期待做某事，to 为介词，后接动名词)
+8. From an early age, Xu dreamed of visiting China's seas and mountains. (dream of doing sth 梦想做某事)
+9. At 22, he set out on his life's journey. (set out on sth 开始某事/踏上旅程)。”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：All the students are looking forward to ______ the ancient bronze masks at the Sanxingdui Museum next Saturday.
+- A. see
+- B. saw
+- C. seeing
+- D. seen
+
+> **正确答案**：C. seeing
+> **答案解析**：解析：look forward to doing sth 为固定短语，其中 to 为介词，后面必须接动名词形式 seeing。故选 C。
+
+---
+
+## Card #85 | 【教材精读 · 外研版（WY）七年级上册 Starter】01. 学生日常活动安排与开学准备
 - **考点标识**：`mat_01` | **定位出处**：试卷去手写_学生日常活动安排.pdf (30页)
 ### 🌊 关卡 1 · 心智隐喻破壁
 > 收录李明与妈妈关于初一第一天入学的经典真实对话，涉及书包物品清点、日常作息日程安排（Get ready）及生活交际。
@@ -1573,7 +1895,7 @@
 
 ---
 
-## Card #72 | 【教材精读 · 外研版（WY）七年级上册 Unit 3】02. 温馨家庭瞬间分享与生活点滴
+## Card #86 | 【教材精读 · 外研版（WY）七年级上册 Unit 3】02. 温馨家庭瞬间分享与生活点滴
 - **考点标识**：`mat_02` | **定位出处**：试卷去手写_温馨家庭瞬间分享.pdf (30页)
 ### 🌊 关卡 1 · 心智隐喻破壁
 > 精读单元以‘家庭瞬间（Family Moments）’为主题，通过照片描述亲人间的关爱与温暖，并对中国传统谚语‘家和万事兴’进行了深度文化双语阐释。
@@ -1595,7 +1917,7 @@
 
 ---
 
-## Card #73 | 【教材精读 · 沈阳出版发行集团 · 外研版七上同步辅导】03. 启帆课学习笔记之句型转换与语法
+## Card #87 | 【教材精读 · 沈阳出版发行集团 · 外研版七上同步辅导】03. 启帆课学习笔记之句型转换与语法
 - **考点标识**：`mat_03` | **定位出处**：试卷去手写_启帆课学习笔记编著信息.pdf (30页)
 ### 🌊 关卡 1 · 心智隐喻破壁
 > 系统梳理外研七上重难点：名词单复数、冠词泛指与特指、数词时刻与顺序、一般现在时（含肯定/否定/一般疑问句转换公式与易错点）。
@@ -1618,7 +1940,7 @@ Tom ______ English hard every day.
 
 ---
 
-## Card #74 | 【教材精读 · 外研版（WY）七年级上册 Unit 4】04. 埃玛图书馆交友记与校园日常精读
+## Card #88 | 【教材精读 · 外研版（WY）七年级上册 Unit 4】04. 埃玛图书馆交友记与校园日常精读
 - **考点标识**：`mat_04` | **定位出处**：试卷去手写_埃玛图书馆交友记.pdf (24页)
 ### 🌊 关卡 1 · 心智隐喻破壁
 > 包含转学生 Emma 在图书馆打破孤独、主动组建写作俱乐部与结交朋友的生动故事；同时节选了经典电影《那山那人那狗》山间父子同行的感人双语篇目。
@@ -1641,7 +1963,7 @@ Tom ______ English hard every day.
 
 ---
 
-## Card #75 | 【教材精读 · 外研版（WY）七年级上册 单词专项】05. 汉译英词汇列表（第三遍乱序默写表）
+## Card #89 | 【教材精读 · 外研版（WY）七年级上册 单词专项】05. 汉译英词汇列表（第三遍乱序默写表）
 - **考点标识**：`mat_05` | **定位出处**：试卷去手写_汉译英词汇列表（第三遍乱序）.pdf (30页)
 ### 🌊 关卡 1 · 心智隐喻破壁
 > 精选全册 300+ 核心考查词汇，打破字母与单元顺序进行乱序排列，强制大脑调用语义关联记忆，并标注动词、名词、形容词、代词属性及不规则变化。
@@ -1668,7 +1990,7 @@ Tom ______ English hard every day.
 
 ---
 
-## Card #76 | 【教材精读 · 外研版（WY）七年级上册 表达专项】06. 汉语词汇学习资料与日常对话搭配
+## Card #90 | 【教材精读 · 外研版（WY）七年级上册 表达专项】06. 汉语词汇学习资料与日常对话搭配
 - **考点标识**：`mat_06` | **定位出处**：试卷去手写_汉语词汇学习资料.pdf (30页)
 ### 🌊 关卡 1 · 心智隐喻破壁
 > 系统梳理初一日常交流高频短语：欢迎来到某地、学习新事物、楼层方位表达（美式 vs 英式）、运动邀请与日常礼貌回应等功能意念项目。
@@ -1691,5 +2013,71 @@ Tom ______ English hard every day.
 
 > **正确答案**：B. on
 > **答案解析**：在几楼表面固定使用介词 on (on the first/second/third floor)。故选 B。
+
+---
+
+## Card #91 | 【教材精读 · 外研七上】七下 Unit 6 Hitting the road 核心语言点与文化阅读（去手写清爽版）
+- **考点标识**：`mat_07` | **定位出处**：试卷去手写_20261111_102605.pdf
+### 🌊 关卡 1 · 心智隐喻破壁
+> 提炼四川火锅与三星堆双关修辞（from hot to totally cool）、中国俗语（When in China, do as the Chinese do）、千古奇人徐霞客探险记与张骞、玄奘历史文化名篇。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：🎯 语法要点：as...as 同级比较 · look forward to doing · can't wait to do · 双关修辞 (Pun)
+- **避坑警示**：`【精读避坑】：关注真实对话中的习惯搭配与代词指代，避免望文生义。`
+- **原句出处**：*Unit 6 Language notes 原文* —— *“Surprisingly, I started to enjoy the taste. And cooking hot pot was just as fun as eating it!”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：精读《七下 Unit 6 Hitting the road 核心语言点与文化阅读（去手写清爽版）》，下列关于课文主旨与核心句型的理解完全正确的是：
+- A. 正确理解课文语境与核心语法
+- B. 机械死记单词
+- C. 脱离上下文
+- D. 忽略情感主题
+
+> **正确答案**：A. 正确理解课文语境与核心语法
+> **答案解析**：结合课文真实语篇与主旨思想进行综合推断。
+
+---
+
+## Card #92 | 【教材精读 · 外研七上】七下 Unit 4 The art of having fun 教材全解（去手写版）
+- **考点标识**：`mat_08` | **定位出处**：试卷去手写_20261111_102121.pdf
+### 🌊 关卡 1 · 心智隐喻破壁
+> 包含成都华希昆虫博物馆巨蚊探秘与吉尼斯世界纪录、谚语 All work and no play makes Jack a dull boy、娱乐与减压心理机制（Doing away with bad feelings）。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：🎯 语法要点：祈使句倡议 (Do/Don't) · 动名词作主语 · keep sb. doing · discover doing
+- **避坑警示**：`【精读避坑】：关注真实对话中的习惯搭配与代词指代，避免望文生义。`
+- **原句出处**：*Unit 4 课本核心观点* —— *“Having fun can reduce stress and anxiety. Enjoying fun helps to build better relationships with others.”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：精读《七下 Unit 4 The art of having fun 教材全解（去手写版）》，下列关于课文主旨与核心句型的理解完全正确的是：
+- A. 正确理解课文语境与核心语法
+- B. 机械死记单词
+- C. 脱离上下文
+- D. 忽略情感主题
+
+> **正确答案**：A. 正确理解课文语境与核心语法
+> **答案解析**：结合课文真实语篇与主旨思想进行综合推断。
+
+---
+
+## Card #93 | 【教材精读 · 外研七上】课堂英语学习笔记七年级下册（外研版精编）
+- **考点标识**：`mat_09` | **定位出处**：试卷去手写_20261111_101615.pdf
+### 🌊 关卡 1 · 心智隐喻破壁
+> 李兆海主编。系统涵盖七下 6 大单元完整课程大纲、一般过去时、不定代词、连系动词、祈使句、比较级与最高级、同级比较专项速记与中考易错通解。
+
+### ⚡ 关卡 2 · 避坑雷达与速记口诀
+- **规则公式**：🎯 语法要点：一般过去时 was/were · 不定代词修饰词后置 · 连系动词表语 · 形容词/副词比较级最高级
+- **避坑警示**：`【精读避坑】：关注真实对话中的习惯搭配与代词指代，避免望文生义。`
+- **原句出处**：*Unit 1 语法精讲* —— *“一般过去时描述过去动作或状态：I was born in a small village. Were you born in 2008?”*
+
+### 🏆 关卡 3 · 登顶闯关实战
+**题目**：精读《课堂英语学习笔记七年级下册（外研版精编）》，下列关于课文主旨与核心句型的理解完全正确的是：
+- A. 正确理解课文语境与核心语法
+- B. 机械死记单词
+- C. 脱离上下文
+- D. 忽略情感主题
+
+> **正确答案**：A. 正确理解课文语境与核心语法
+> **答案解析**：结合课文真实语篇与主旨思想进行综合推断。
 
 ---
